@@ -18,12 +18,17 @@ class Navigator {
             await this.editOrderTime()
         }
         const restaurantUnavailable = await this.page.$x(`//span[normalize-space(text())="Online Ordering Unavailable"]`)
-        if (restaurantUnavailable != null){
-            console.log('RESTAURANT NOT CURRENTLY AVAILABLE FOR ORDERS')
+        const restaurantClosed = await this.page.$x(`//span[normalize-space(text())="Online Ordering Closed"]`)
+        const restaurantScheduledOrdersOnly = await this.page.$x(`//span[normalize-space(text())="Scheduled Orders Only"]`)
+
+        if (restaurantUnavailable === [] && restaurantClosed === [] && restaurantScheduledOrdersOnly === []){
+            return true
+        } else {
+            console.log('RESTAURANT NOT CURRENTLY TAKING ORDERS')
             await this.exit()
             return false
         }
-        return true
+
     }
 
     async wait() {
