@@ -1,0 +1,410 @@
+[
+  {
+    "id": "1dc27d2e-2b41-4849-b6b2-1b4f612e42b1",
+    "menuItem": {
+      "__typename": "MenuItem",
+      "id": "acd1fcac-196d-4eaa-81c9-83cffe0606b7",
+      "name": "Burrito",
+      "description": "Choose one protein, rice, and any amount of ~Toppings",
+      "price": 925,
+      "reward": {
+        "__typename": "MenuReward",
+        "points": 3,
+        "discount": 925,
+        "discountText": "Free"
+      },
+      "numOrders": null,
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2013/10/chicken-chimichangas-6.jpg",
+      "suspendUntil": null,
+      "isAlcohol": null,
+      "foodOptions": [
+        {
+          "__typename": "FoodOption",
+          "id": "ef7a2c8b-51d8-45bf-9166-465497a40bc5",
+          "name": "Meat",
+          "numChoices": 1,
+          "minChoices": 1,
+          "required": true,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "b5f581aa-55a2-4927-91e8-ed00e9a7c9cc",
+              "name": "Camarones (Shrimp)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "8b1d7a00-ae29-4e72-ba1a-0532f2b69312",
+              "name": "Carne Asada (Steak)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "502cea18-7216-44d6-8cc3-e553ff0a8c2d",
+              "name": "Carne Molida Picante (Spicy Ground Beef)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "92e3b15a-aeca-4e27-8cba-d6e895e1aa7a",
+              "name": "Carnitas (Pork)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "d51aa5b8-a31f-4b9a-8870-829336a5bf31",
+              "name": "Chorizo (Pork Sausage)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "390c80f2-afc7-487c-9945-2267de83ecaf",
+              "name": "Pollo Asado (Chicken)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "052df391-c157-4093-bd1c-499008e0b362",
+              "name": "Vegetariano (Vegetarian)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "b5fc1892-7451-44f1-a087-e64d26c4c892",
+              "name": "No protein",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        },
+        {
+          "__typename": "FoodOption",
+          "id": "6ddaf8ec-6d59-4670-a345-91d767ae7301",
+          "name": "Rice",
+          "numChoices": 1,
+          "minChoices": 1,
+          "required": true,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "1c479bd9-e08e-472c-a165-9baa39b90fc2",
+              "name": "Mexican Rice",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "128ea5a4-d7f5-4588-9892-a4e8600915ad",
+              "name": "Cilantro Lime Rice",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "539f6271-0aba-4dd4-8407-11b96894d370",
+              "name": "No Rice",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        },
+        {
+          "__typename": "FoodOption",
+          "id": "5c3039bc-eb12-4c16-b627-623a7812893a",
+          "name": "Beans",
+          "numChoices": 1,
+          "minChoices": 1,
+          "required": true,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "662aec30-e568-4bc0-9f9e-c6d9a1d4eb92",
+              "name": "Black Beans",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "18b85562-1692-4b0e-be3e-c7dc1c24439d",
+              "name": "Pinto Beans",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "dddd10b1-ee22-4b93-9922-0b82ae84601f",
+              "name": "Refried Beans",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "941816a1-345a-4de1-b6bf-919ebdd9bd47",
+              "name": "No Beans",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        },
+        {
+          "__typename": "FoodOption",
+          "id": "654df954-c08c-404e-99af-4a37a018193b",
+          "name": "Hot Toppings",
+          "numChoices": null,
+          "minChoices": 0,
+          "required": false,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
+              "name": "Fajita Veggies",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "0e38b768-2432-4acf-9045-d7eedf25345d",
+              "name": "Queso Sauce",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "c4d9b573-2f9c-4135-b6d4-ce79af94d6b5",
+              "name": "Plantains",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "d21d74b1-cb5c-457f-b738-633bbd42a631",
+              "name": "Roasted Veggies",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        },
+        {
+          "__typename": "FoodOption",
+          "id": "bb563327-15a1-40a7-8121-6501eb18dc2b",
+          "name": "Cold Toppings",
+          "numChoices": null,
+          "minChoices": 0,
+          "required": false,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "ca5dfd16-824b-4d73-9163-586f6bd8ea06",
+              "name": "Lettuce",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "43415414-3d92-425e-83f8-2cd8c50409bf",
+              "name": "Green Salsa (Spicy)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "2b41b808-2483-4118-a877-b9e5faa4ab83",
+              "name": "Sour Cream",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "880250d3-3a56-467d-8ac5-b759f34d3131",
+              "name": "Pickled Onions",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "c4a3e649-7da5-4fb4-b3ba-3daedfa4aa78",
+              "name": "Chipotle Mayo",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "85b3436d-8930-454c-9aaa-5c5a6e0de7da",
+              "name": "Red Cabbage",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "cc5bb207-758f-49ac-9969-7f171a1a43b4",
+              "name": "Mango Habanero Salsa (Spicy)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "2a19abd7-894a-4ff8-ae90-2e99b1123ea4",
+              "name": "Guacamole",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "9c128d1d-a059-4064-ba50-31c0c3f5235b",
+              "name": "Cilantro & Onions",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "78a03c61-4d50-4503-9eb9-2b84bb442114",
+              "name": "Pico de Gallo Salsa (Mild)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "dfbc689e-3e33-454c-8059-1853c288b08a",
+              "name": "Red Salsa (Medium)",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "59f06a79-e47e-4c45-9b56-3a7347c0d58d",
+              "name": "Cheese",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            },
+            {
+              "__typename": "Option",
+              "id": "af384bac-b309-462a-a24f-a900a1cbc888",
+              "name": "Jalapenos",
+              "price": null,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        },
+        {
+          "__typename": "FoodOption",
+          "id": "2cc3071f-0d41-4b3d-9bdd-ea98a4e6608e",
+          "name": "Double Meat",
+          "numChoices": 1,
+          "minChoices": 0,
+          "required": false,
+          "options": [
+            {
+              "__typename": "Option",
+              "id": "dd413631-b22b-451e-afde-36dc979b199d",
+              "name": "Double Portion",
+              "price": 300,
+              "points": null,
+              "suspendUntil": null
+            }
+          ]
+        }
+      ],
+      "taxRate": 7.8
+    },
+    "discount": 0,
+    "price": 1850,
+    "points": 0,
+    "comment": "",
+    "quantity": 2,
+    "foodOptions": [
+      {
+        "foodOptionId": "ef7a2c8b-51d8-45bf-9166-465497a40bc5",
+        "name": "Meat",
+        "options": [
+          {
+            "optionId": "b5f581aa-55a2-4927-91e8-ed00e9a7c9cc",
+            "name": "Camarones (Shrimp)",
+            "price": null,
+            "points": null
+          }
+        ]
+      },
+      {
+        "foodOptionId": "6ddaf8ec-6d59-4670-a345-91d767ae7301",
+        "name": "Rice",
+        "options": [
+          {
+            "optionId": "1c479bd9-e08e-472c-a165-9baa39b90fc2",
+            "name": "Mexican Rice",
+            "price": null,
+            "points": null
+          }
+        ]
+      },
+      {
+        "foodOptionId": "5c3039bc-eb12-4c16-b627-623a7812893a",
+        "name": "Beans",
+        "options": [
+          {
+            "optionId": "662aec30-e568-4bc0-9f9e-c6d9a1d4eb92",
+            "name": "Black Beans",
+            "price": null,
+            "points": null
+          }
+        ]
+      },
+      {
+        "foodOptionId": "654df954-c08c-404e-99af-4a37a018193b",
+        "name": "Hot Toppings",
+        "options": [
+          {
+            "optionId": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
+            "name": "Fajita Veggies",
+            "price": null,
+            "points": null
+          },
+          {
+            "optionId": "0e38b768-2432-4acf-9045-d7eedf25345d",
+            "name": "Queso Sauce",
+            "price": null,
+            "points": null
+          }
+        ]
+      }
+    ]
+  }
+]
