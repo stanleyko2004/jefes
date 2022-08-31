@@ -2,6 +2,8 @@ import * as puppeteer from "puppeteer";
 import * as fs from "fs"
 
 const toastWebsite = 'https://www.toasttab.com/el-jefes-taqueria/v3'
+const goodComputer = true
+const headless = false
 
 interface Option {
     option: string
@@ -41,7 +43,7 @@ class MenuMaker {
     }
 
     async init(): Promise<void> {
-        this.browser = await puppeteer.launch({headless: false})
+        this.browser = await puppeteer.launch({headless: headless})
     }
 
     writeToFile(menu: CategoryInfo[]) {
@@ -199,15 +201,25 @@ class MenuMaker {
         const menu: CategoryInfo[] = await Promise.all(categoryInfoTasks)
 
         const foodOptionsTasks: Promise<void>[] = []
-        for (const {items} of menu){
-            for (const item of items){
-                await this.scrapeFoodOptions(item)
-                // foodOptionsTasks.push(this.scrapeFoodOptions(item))
+
+        if (goodComputer){
+            for (const {items} of menu){
+                for (const item of items){
+                    // await this.scrapeFoodOptions(item)
+                    foodOptionsTasks.push(this.scrapeFoodOptions(item))
+                }
+            }
+
+            // laggy af
+            await Promise.all(foodOptionsTasks)
+        } else {
+            for (const {items} of menu){
+                for (const item of items){
+                    await this.scrapeFoodOptions(item)
+                    // foodOptionsTasks.push(this.scrapeFoodOptions(item))
+                }
             }
         }
-
-        // laggy af
-        // await Promise.all(foodOptionsTasks)
 
         return menu
     }
