@@ -1,9 +1,10 @@
 import * as puppeteer from "puppeteer";
 import * as fs from "fs"
 
-const toastWebsite = 'https://www.toasttab.com/el-jefes-taqueria/v3'
-const goodComputer = true
+const toastWebsite = 'https://www.toasttab.com/bacari-west-3rd/v3'
+const goodComputer = false
 const headless = false
+const restaurantName = 'bacari'
 
 interface Option {
     option: string
@@ -46,14 +47,23 @@ class MenuMaker {
         this.browser = await puppeteer.launch({headless: headless})
     }
 
-    writeToFile(menu: CategoryInfo[]) {
-        fs.writeFileSync('menu.json', JSON.stringify(menu, null, 4))
+    writeToFile(filename: string, menu: CategoryInfo[]) {
+        fs.writeFileSync(filename + '.json', JSON.stringify(menu, null, 4))
     }
 
     async menuMaker(): Promise<CategoryInfo[]> {
         this.page = await this.browser.newPage()
         await this.page.goto(this.url)
         await this.wait()
+        if (this.page.url().endsWith('/?mode=fulfillment')){
+            // console.log('Ordering Ahead of Time')
+
+            await this.editOrderTime(this.page)
+
+            await this.page.goto(this.url)
+            await this.page.waitForNavigation({waitUntil: 'networkidle0'});
+
+        }
         const menu = await this.scrapeMenu()
         this.browser.close()
         return menu
@@ -198,6 +208,7 @@ class MenuMaker {
         const categories: puppeteer.ElementHandle<Element>[] = await this.page.$$('li[data-testid="menu-groups"]')
         const categoryInfoTasks: Promise<CategoryInfo>[] = []
         for (const category of categories) categoryInfoTasks.push(this.getCategoryInfo(category))
+        console.log(categoryInfoTasks.length)
         const menu: CategoryInfo[] = await Promise.all(categoryInfoTasks)
 
         const foodOptionsTasks: Promise<void>[] = []
@@ -233,7 +244,7 @@ if (require.main === module) {
         // await m.menuMaker()
         await m.init()
         const menu: CategoryInfo[] = await m.menuMaker()
-        m.writeToFile(menu)
+        m.writeToFile(restaurantName, menu)
         // const f = await m.scrapeFoodOptions('https://www.toasttab.com/el-jefes-taqueria/v3/add/fbe55c3f-aac0-41a5-a0d2-63c2432e7830/9544f60e-cd2e-46c7-b39f-8b2c16ea1c2c')
         // console.log(JSON.stringify(f, null, 4))
         // const menu: CategoryInfo[] = await m.scrapeMenu()
