@@ -43,14 +43,15 @@ export class Navigator {
             await this.editOrderTime()
         }
 
-        const restaurantOpen: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Open"]`)
-        if (restaurantOpen.length > 0){
-            return true
-        } else {
-            console.log('RESTAURANT NOT CURRENTLY TAKING ORDERS')
-            await this.exit()
-            return false
-        }
+        // const restaurantOpen: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Open"]`)
+        // if (restaurantOpen.length > 0){
+        //     return true
+        // } else {
+        //     console.log('RESTAURANT NOT CURRENTLY TAKING ORDERS')
+        //     await this.exit()
+        //     return false
+        // }
+        return true
         // const restaurantUnavailable: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Online Ordering Unavailable"]`)
         // const restaurantClosed: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Online Ordering Closed"]`)
         // const restaurantScheduledOrdersOnly: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Scheduled Orders Only"]`)
@@ -109,7 +110,7 @@ export class Navigator {
             // console.log(option)
             try {
                 // cuz toast sometimes adds random whitespace
-                const [optionText] = await this.modal.$x('//div[@data-testid="modifierDescription"]/div[normalize-space(text())="Gluten-Free Dough"]')
+                const [optionText] = await this.modal.$x(`//div[@data-testid="modifierDescription"]/div[normalize-space(text())="${option}"]`)
                 await optionText.evaluate((button: any) => button.click())
             } catch(e) {
                 console.error('CANNOT FIND OPTION: ', option)

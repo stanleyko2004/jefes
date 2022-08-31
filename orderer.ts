@@ -1,4 +1,5 @@
 import { Navigator, OrderArgs, CheckoutArgs } from './Navigator'
+import * as path  from 'path'
 import * as fs from 'fs'
 require('dotenv').config();
 
@@ -19,34 +20,34 @@ const jsonOrderToArgs = (order: any): OrderArgs => {
     }
 }
 
-let rawdata: string = fs.readFileSync('ExampleJefesCart.json').toString()
-let json = JSON.parse(rawdata);
+const orderFromFile = async (filename: string): Promise<void> => {
+    let rawdata: string = fs.readFileSync(filename).toString()
+    let json = JSON.parse(rawdata);
 
-const orderingArgs: OrderArgs[] = json.map((order: any) => jsonOrderToArgs(order))
+    const orderingArgs: OrderArgs[] = json.map((order: any) => jsonOrderToArgs(order))
 
-// console.log(orderingArgs);
+    // console.log(orderingArgs);
 
-const firstName = 'toppings'
-const lastName = 'lastName' // idk???
-const email = 'raymondqin@toppingsapp.com'
-const phoneNumber = '6787101220'
-const tip = '0.00' // also idk???
+    const firstName = 'toppings'
+    const lastName = 'lastName' // idk???
+    const email = 'raymondqin@toppingsapp.com'
+    const phoneNumber = '6787101220'
+    const tip = '0.00' // also idk???
 
-const paymentInfo: CheckoutArgs = {
-    firstName: firstName,
-    lastName: lastName,
-    email: email,
-    phoneNumber: phoneNumber,
-    cardNumber: process.env.CREDIT_CARD_NUMBER!,
-    cardExp: process.env.CREDIT_CARD_EXP!,
-    cardCCV: process.env.CREDIT_CARD_CCV!,
-    cardZip: process.env.CREDIT_CARD_ZIP!,
-    tip: tip
-};
+    const paymentInfo: CheckoutArgs = {
+        firstName: firstName,
+        lastName: lastName,
+        email: email,
+        phoneNumber: phoneNumber,
+        cardNumber: process.env.CREDIT_CARD_NUMBER!,
+        cardExp: process.env.CREDIT_CARD_EXP!,
+        cardCCV: process.env.CREDIT_CARD_CCV!,
+        cardZip: process.env.CREDIT_CARD_ZIP!,
+        tip: tip
+    };
 
-// console.log(paymentInfo);
+    // console.log(paymentInfo);
 
-(async () => {
     const n = new Navigator('https://www.toasttab.com/el-jefes-taqueria/v3')
     const open = await n.init(false)
     if (open) {
@@ -54,4 +55,17 @@ const paymentInfo: CheckoutArgs = {
         await n.checkout(paymentInfo)
     }
     // await n.exit()
+}
+
+const input: string = './orders'
+const files = fs.readdirSync(input)
+const allOrders: Promise<void>[] = [];
+
+(async () => {
+    for (const file of files){
+        const filename: string = path.join(input, file)
+        // await orderFromFile(filename)
+        allOrders.push(orderFromFile(filename))
+    }
+    Promise.all(allOrders)
 })()
