@@ -48,7 +48,7 @@ const orderFromFile = async (filename: string): Promise<void> => {
 
     // console.log(paymentInfo);
 
-    const n = new Navigator('https://www.toasttab.com/el-jefes-taqueria/v3')
+    const n = new Navigator('https://www.toasttab.com/el-jefes-cambridge-14-brattle-street/v3')
     const open = await n.init(false)
     if (open) {
         for (const args of orderingArgs) await n.addOrderToCart(args)

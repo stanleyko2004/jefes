@@ -36,12 +36,13 @@ export class Navigator {
         this.page = await this.browser.newPage()
         await this.page.goto(this.url)
         await this.wait()
-        await this.makeMenuItemToLink()
         const pageUrl: string = this.page.url()
         if (pageUrl === this.url + '/?mode=fulfillment'){
             // console.log('Ordering Ahead of Time')
             await this.editOrderTime()
         }
+        await this.makeMenuItemToLink()
+
 
         // const restaurantOpen: puppeteer.ElementHandle<Node>[] = await this.page.$x(`//span[normalize-space(text())="Open"]`)
         // if (restaurantOpen.length > 0){
