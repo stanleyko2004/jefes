@@ -29,7 +29,7 @@ const orderFromFile = async (filename: string): Promise<void> => {
     // console.log(orderingArgs);
 
     const firstName = 'toppings'
-    const lastName = 'lastName' // idk???
+    const lastName = 'shanshan' // idk???
     const email = 'raymondqin@toppingsapp.com'
     const phoneNumber = '6787101220'
     const tip = '0.00' // also idk???
@@ -48,7 +48,7 @@ const orderFromFile = async (filename: string): Promise<void> => {
 
     // console.log(paymentInfo);
 
-    const n = new Navigator('https://www.toasttab.com/el-jefes-taqueria/v3')
+    const n = new Navigator('https://www.toasttab.com/el-jefes-cambridge-14-brattle-street/v3/')
     const open = await n.init(false)
     if (open) {
         for (const args of orderingArgs) await n.addOrderToCart(args)

@@ -353,11 +353,11 @@
     "foodOptions": [
       {
         "foodOptionId": "ef7a2c8b-51d8-45bf-9166-465497a40bc5",
-        "name": "Meat",
+        "name": "Meat Choice (copy)",
         "options": [
           {
             "optionId": "b5f581aa-55a2-4927-91e8-ed00e9a7c9cc",
-            "name": "Camarones (Shrimp)",
+            "name": "Carne Asada (Steak)",
             "price": null,
             "points": null
           }
@@ -365,7 +365,7 @@
       },
       {
         "foodOptionId": "6ddaf8ec-6d59-4670-a345-91d767ae7301",
-        "name": "Rice",
+        "name": "Rice Choice",
         "options": [
           {
             "optionId": "1c479bd9-e08e-472c-a165-9baa39b90fc2",
@@ -377,7 +377,7 @@
       },
       {
         "foodOptionId": "5c3039bc-eb12-4c16-b627-623a7812893a",
-        "name": "Beans",
+        "name": "Beans Choice",
         "options": [
           {
             "optionId": "662aec30-e568-4bc0-9f9e-c6d9a1d4eb92",
@@ -389,7 +389,7 @@
       },
       {
         "foodOptionId": "654df954-c08c-404e-99af-4a37a018193b",
-        "name": "Hot Toppings",
+        "name": "Hot Toppings choices",
         "options": [
           {
             "optionId": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
@@ -400,6 +400,24 @@
           {
             "optionId": "0e38b768-2432-4acf-9045-d7eedf25345d",
             "name": "Queso Sauce",
+            "price": null,
+            "points": null
+          }
+        ]
+      },
+      {
+        "foodOptionId": "654df954-c08c-404e-99af-4a37a018193b",
+        "name": "Cold toppings choices",
+        "options": [
+          {
+            "optionId": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
+            "name": "Cheese",
+            "price": null,
+            "points": null
+          },
+          {
+            "optionId": "0e38b768-2432-4acf-9045-d7eedf25345d",
+            "name": "Pico de Galo (mild)",
             "price": null,
             "points": null
           }
