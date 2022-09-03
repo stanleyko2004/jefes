@@ -27,7 +27,7 @@ export class Navigator {
     modal: puppeteer.ElementHandle<Element>
 
     constructor(url: string) {
-        this.url = url
+        this.url = url.endsWith('/') ? url.slice(0, -1) : url
         this.menuItemToLink = new Map<string, string>()
     }
 
@@ -37,7 +37,7 @@ export class Navigator {
         await this.page.goto(this.url)
         await this.wait()
         const pageUrl: string = this.page.url()
-        if (pageUrl === this.url + '/?mode=fulfillment'){
+        if (pageUrl.endsWith('/?mode=fulfillment')){
             // console.log('Ordering Ahead of Time')
             await this.editOrderTime()
         }
