@@ -1,0 +1,1419 @@
+[
+    {
+        "menuGroup": "Cheese & Salumi",
+        "items": [
+            {
+                "menuItem": "Cheese/Salumi - 3 Choice",
+                "description": "Choose 3 of the following: saint-andré (cow), gorgonzola dulce (cow), midnight moon (goat), salame toscano (pork), salame calabrese (pork). cheese platters are served with: whole grain mustard, cornichon, caper berry, dried apricot, baguette",
+                "price": "$16.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/f108043e-d90b-4b06-a196-dcaaa9c762bd/31f2e96a-bccc-44cf-920a-2254c8c74873",
+                "foodOptions": [
+                    {
+                        "foodOption": "Cheese & Salumi (3)",
+                        "numChoices": 3,
+                        "minChoices": 3,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Saint-André",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Gorgonzola Dulce",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Midnight Moon",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Salame Calabrese",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Salame Toscano",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Accompaniments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Apple",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Medjool Date",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Marcona Almond",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Clover Honey",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Butter",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Olive Oil",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Apricot",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Caper Berry",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Cornichon",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Mustard",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Balsamic",
+                                "price": "+$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "GF Preparation & Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Cheese/Salumi - 5 Choice",
+                "description": "Choose 5 of the following: saint-andré (cow), gorgonzola dulce (cow), midnight moon (goat), salame toscano (pork), salame calabrese (pork). cheese platters are served with: whole grain mustard, cornichon, caper berry, dried apricot, baguette",
+                "price": "$19.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/bbb52450-27b8-44bb-9b80-e5563d52ad4d/31f2e96a-bccc-44cf-920a-2254c8c74873",
+                "foodOptions": [
+                    {
+                        "foodOption": "Cheese & Salumi (5)",
+                        "numChoices": 5,
+                        "minChoices": 5,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Saint-André",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Gorgonzola Dulce",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Midnight Moon",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Salame Toscano",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Salame Calabrese",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Accompaniments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Apple",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Medjool Date",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Marcona Almond",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Clover Honey",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Butter",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Olive Oil",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Apricot",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Caper Berry",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Cornichon",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Mustard",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Balsamic",
+                                "price": "+$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "GF Preparation & Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "House Baked Baguette",
+                "description": "",
+                "price": "$4.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/a7c165e8-42b6-421e-aeff-abab43e2c8b4/31f2e96a-bccc-44cf-920a-2254c8c74873",
+                "foodOptions": [
+                    {
+                        "foodOption": "Accompaniments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Apple",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Medjool Date",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Marcona Almond",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Clover Honey",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Butter",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Olive Oil",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Apricot",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Caper Berry",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Cornichon",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Mustard",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Balsamic",
+                                "price": "+$1.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "House Cured Olives",
+                "description": "",
+                "price": "$6.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/4db6d77b-a944-45ba-b9c7-54fa6f15b927/31f2e96a-bccc-44cf-920a-2254c8c74873",
+                "foodOptions": [
+                    {
+                        "foodOption": "Accompaniments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Apple",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Medjool Date",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Marcona Almond",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Clover Honey",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Butter",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Olive Oil",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Apricot",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Caper Berry",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Cornichon",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Mustard",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Balsamic",
+                                "price": "+$1.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Extra Bread",
+                "description": "",
+                "price": "0.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/9a47a778-fa44-4bee-9697-037ffe4820b0/31f2e96a-bccc-44cf-920a-2254c8c74873",
+                "foodOptions": [
+                    {
+                        "foodOption": "Bread Choice",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Pita",
+                                "price": "+$2.50"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Accompaniments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Apple",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Medjool Date",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Marcona Almond",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Clover Honey",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Butter",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Olive Oil",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "Apricot",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Caper Berry",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Cornichon",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Mustard",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Balsamic",
+                                "price": "+$1.00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menuGroup": "Cold",
+        "items": [
+            {
+                "menuItem": "Hibiscus Watermelon",
+                "description": "pickled watermelon rind, whipped feta, arugula, crushed pistachio, urfa pepper",
+                "price": "$8.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/f7879635-fae0-401a-9660-2d84d62b5a41/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Shrimp Ceviche",
+                "description": "fennel aguachile, heirloom cherry tomato, cucumber, za’atar, sumac, lime chili chips",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/5fd0e696-811b-4d22-896d-78593b3d8966/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Rainbow Beet Salad",
+                "description": "oven roasted, chèvre, tarragon, frantoia olive oil, black peppercorn, grey salt",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/35c9eca7-b869-4bfa-92a3-531321578df5/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Tuscan Kale Salad",
+                "description": "crispy black kale & chopped rainbow kale, persian cucumber, heirloom cherry tomato, green onion, crumbled feta, za’atar, sumac, kale tahini",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/3709faab-6738-4dc2-93be-f87791c4113f/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": [
+                    {
+                        "foodOption": "Add Chicken",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Chicken",
+                                "price": "+$5.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Burrata Caprese",
+                "description": "burrata di gioia, fresh basil, heirloom cherry tomato, basil walnut pesto, grey salt",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/49a581b6-9db8-49be-9487-cc78606b56b4/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": [
+                    {
+                        "foodOption": "GF Prep/Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Salatim",
+                "description": "vegan paté, green chickpea hummus, hazelnut beet muhammara, freshly baked pita",
+                "price": "$13.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/f596491f-f11d-4a8b-b765-bf1023e7cdc4/b4b3b1eb-4477-4084-9c01-d73b63e997f9",
+                "foodOptions": [
+                    {
+                        "foodOption": "Extra Pita",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Extra Pita",
+                                "price": "+$2.50"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "GF Preparation & Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menuGroup": "Hot",
+        "items": [
+            {
+                "menuItem": "Shishito Peppers",
+                "description": "charred, roasted corn, queso fresco, pickled onions, za’atar vinaigrette",
+                "price": "$8.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/c4908be6-9430-4d73-a781-c959c9712237/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Pork Chop",
+                "description": "pan seared, pearl onion, parmesan-garlic corn flake, aji verde, aleppo oil",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/5d771916-fc5f-470c-95f1-2f673bf58221/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Pilpelchuma Shrimp",
+                "description": "",
+                "price": "$13.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/ce3e23c2-9f11-4e32-994d-ffcb3d8ea559/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Green Falafel",
+                "description": "chickpea, coconut harissa, mediterranean salad",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/ea4857e7-f538-4d86-976f-741489f535b9/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Fried Chicken Sliders",
+                "description": "cornbread crusted, hawaiian roll, pickled cucumber, cabbage, lemon kalamata olive caper aioli",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/d638f98b-cfc0-400b-914a-06fa075e9420/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Oaxacan Pasta",
+                "description": "handmade pasta, oaxacan cream, romesco, toasted almond, cilantro",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/a170b630-bc49-4b26-9fea-2a233a7f3b9b/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Shawarma Tacos",
+                "description": "mary’s air chilled chicken, israeli spice mix, cabbage, pickled red onion, lemon garlic tahini",
+                "price": "$10.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/99169d08-3557-4848-ae08-42a4ad9e4505/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "3 Tacos",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "3 Tacos",
+                                "price": "+$4.50"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Sea Bass",
+                "description": "pan seared, charred shishito pepper & corn, tarragon aioli, pomegranate molasses, grilled lemon",
+                "price": "$14.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/f1a98574-f02f-4e0e-b8bf-0d7058e42e59/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Ricotta and Beet Gnocchi",
+                "description": "hand-made, chèvre fondue, chimichurri",
+                "price": "$10.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/5b4d0ffe-0c63-476d-ab8f-68fef54023e5/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Extra Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Baguette",
+                                "price": "+$3.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Bacari Fries",
+                "description": "chef’s “bcn” sauce, fried egg (add bacon +2)",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/d6749184-f78e-44c4-84cf-e704224b844a/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Fries Modifications",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Add Bacon",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "No Egg",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Sauce on Side",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Egg on Side",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Lamb Stuffed Eggplant",
+                "description": "seasoned ground leg of lamb, lemon garlic emulsion, lemon chip, scallion",
+                "price": "$10.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/6e11c6f8-4a8d-4833-822e-22d08e5fffa8/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Noa's Cauliflower",
+                "description": "caramelized, chipotle sauce, mixed greens",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/635a6160-c365-4506-8ad7-a68627c27a81/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Grilled Chicken Breast",
+                "description": "Mary's air chilled, crispy parmesan risotto cake, lemon jalapeño caper sauce",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/a08336ab-6292-443a-9d21-3217019d71b7/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Chicken Modifications",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Extra Risotto",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "No Chicken/Sub Risotto",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Jalapeno",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Capers",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Bacari Burger",
+                "description": "all natural beef, open faced, fresh tomato, caramelized onion, worcestershire aioli, telera roll",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/e073f1cd-92c2-44a7-8490-99cd3a5cdcff/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Temperature",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Well",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Well",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Egg?",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Fried Egg",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Egg!",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Burger Modifications",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Add Cheese",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Add Top Bun",
+                                "price": "+$1.00"
+                            },
+                            {
+                                "option": "Add Bacon",
+                                "price": "+$3.00"
+                            },
+                            {
+                                "option": "No Tomato",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Onion",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "On Greens",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "GF Prep/Bread",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Brioche",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Hunter's Mac & Cheese",
+                "description": "five-cheese fondue, toasted panko, white truffle oil, scallion (add bacon +2)(add lobster & crab +6)",
+                "price": "$10.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/faec0b27-f96d-4875-92dd-6693e7915d48/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Mac & Cheese Modifications",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Add Lobster & Crab",
+                                "price": "+$7.00"
+                            },
+                            {
+                                "option": "Add Bacon",
+                                "price": "+$3.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Glazed Pork Belly",
+                "description": "sweet umami mulling glaze, toasted sesame seeds, lemon, green onion, cilantro",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/4d7e89de-bb0b-4d49-9214-bc28d29903b2/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Pork Belly Modifications",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "No Cilantro",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Onion",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Brussels Sprouts",
+                "description": "caramelized, pomegranate molasses, creme fraiche, red beet",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/60bc4b97-bcd6-4af4-a128-edaef90882e5/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Seared Petit Filet",
+                "description": "grilled zucchini, house-made bearnaise",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/b0129bd1-b528-435a-838b-51f6e1007fbd/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "Temperature",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Well",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Well",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Chipotle Chicken Wings",
+                "description": "buttermilk batter, smoked pepper sauce, blue cheese creme fraiche, scallion (spicy)",
+                "price": "$10.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/1cc3fafc-b338-4727-9980-1acb0db4a2ac/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Chef's Salmon",
+                "description": "pan seared, walnut crust, lemon garlic herb bulgar, parsley",
+                "price": "$11.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/49c457cb-0389-483d-86ae-f903d8e6f665/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Stuffed Mushroom",
+                "description": "five cheese blend, toasted pecan, basil walnut pesto, parmesan, parsley",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/0010c3c9-6c2b-4986-94b3-ef9b1822f0da/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": [
+                    {
+                        "foodOption": "4 Mushrooms",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "4 Mushrooms",
+                                "price": "+$3.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Octopus",
+                "description": "cabbage, red onion, celery, & fig slaw; lime vinaigrette",
+                "price": "$14.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/0d56894a-b97e-4f48-b67d-e52e86c9937f/6f6de40b-2198-4be1-a38c-10976eb50b4a",
+                "foodOptions": []
+            }
+        ]
+    },
+    {
+        "menuGroup": "Pizza",
+        "items": [
+            {
+                "menuItem": "Asian Pear & Brie Pizza",
+                "description": "guava fromage blanc, wild arugula, grey salt, frantoia olive oil",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/5dda1de6-6476-4862-ab13-f77f1229448a/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Margherita Pizza",
+                "description": "organic tomato sauce, mozzarella di gioia, fresh basil, olive oil (add salami varzi +6)",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/2c016684-992e-4082-a473-0414606ea64d/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Margherita Mods",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Add Salami Toscano",
+                                "price": "+$6.00"
+                            },
+                            {
+                                "option": "Add Bacon",
+                                "price": "+$2.00"
+                            },
+                            {
+                                "option": "No Basil",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Smoked Mushroom Pizza",
+                "description": "fromage blanc, 2yr white cheddar, parsley",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/e31e7d38-5120-4f2d-a454-6cf664ab8c70/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "White Pizza",
+                "description": "fromage blanc, bacon, scallion, mozzarella (add egg +2)",
+                "price": "$13.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/2d397b8d-e28a-484b-8c1d-d5a3a29b2eac/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Add Egg",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Add Fried Egg",
+                                "price": "+$3.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "White Pizza Modifications",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "No Scallion",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "No Bacon",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "1/2 Bacon",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Bacon & Double Cream Brie Pizza",
+                "description": "organic tomato sauce, fresh jalapeño",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/78e96c3c-5b6d-40fe-a2bd-628c89852e60/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "P-Brie Mods",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "No Bacon",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "1/2 Bacon",
+                                "price": "+$1.50"
+                            },
+                            {
+                                "option": "No Jalapeno",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "1/2 Jalapeno",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Vegan Pizza",
+                "description": "organic tomato sauce, roasted garlic, caramelized onion, fresh tomato, mixed greens",
+                "price": "$12.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/3564698b-b425-4789-b2e4-1171e6caf2a4/dd1ffca1-f957-440a-a149-4b453601b16d",
+                "foodOptions": [
+                    {
+                        "foodOption": "Gluten-Free Dough",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Gluten-Free Dough",
+                                "price": "+$4.00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "menuGroup": "Desserts",
+        "items": [
+            {
+                "menuItem": "Bread Pudding",
+                "description": "clover honey custard, vanilla bean ice cream",
+                "price": "$8.50",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/b37c64e3-62f6-4623-b9c7-9bb5d2545367/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Malabi",
+                "description": "rosewater custard, shaved coconut, hibiscus flower syrup, candied pistachio (gluten-free)",
+                "price": "$8.50",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/61d9ba01-7114-4c3d-b4ca-bbf755ccc3e6/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Best Cake You've Ever Had",
+                "description": "medjool dates, brown sugar caramel, crispy bacon (add ice cream +2) (gluten-free)",
+                "price": "$8.50",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/5dafde32-d7ab-4d12-8cb9-51b99d2cfc52/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": [
+                    {
+                        "foodOption": "Ice Cream",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Ice Cream",
+                                "price": "+$2.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Bacari Ice Cream",
+                "description": "vanilla bean, walnuts, clover honey (gluten-free)",
+                "price": "$7.50",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/9f5ac76f-505b-42fe-ab44-bb6110a53430/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": []
+            },
+            {
+                "menuItem": "Double Chocolate Cake",
+                "description": "chocolate pudding, hazelnut brittle (gluten-free) (vegan)",
+                "price": "$9.50",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/35dc812a-74d9-44fc-9d3b-127ea04146d3/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": [
+                    {
+                        "foodOption": "Ice Cream",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "Ice Cream",
+                                "price": "+$2.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Hillel's Donuts",
+                "description": "brown butter salted caramel, honey lavender labni, cardamom sugar",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/76ef6b26-cfe0-487b-a944-a470c9153b5b/4a51b726-e556-4b13-8637-8c82e386a384",
+                "foodOptions": []
+            }
+        ]
+    },
+    {
+        "menuGroup": "Kids",
+        "items": [
+            {
+                "menuItem": "Kids Chicken Breast",
+                "description": "",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/05ccfde1-ba0c-499d-9afa-285d9169887c/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": [
+                    {
+                        "foodOption": "Kids Side Option",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Butter Pasta",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Fries",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Veggies",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "SAME TIME",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "SAME TIME",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Kids Crispy Chicken Fingers",
+                "description": "",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/986edad7-d271-4800-9693-d5b772cad31e/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": [
+                    {
+                        "foodOption": "Kids Side Option",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Butter Pasta",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Fries",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Veggies",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "SAME TIME",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "SAME TIME",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Kids Burger",
+                "description": "",
+                "price": "$9.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/2c5339aa-58ab-4bc3-9c08-06b71807d957/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": [
+                    {
+                        "foodOption": "Temperature",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Rare",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Medium Well",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Well",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "Kids Side Option",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "option": "Butter Pasta",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Fries",
+                                "price": "0.00"
+                            },
+                            {
+                                "option": "Veggies",
+                                "price": "0.00"
+                            }
+                        ]
+                    },
+                    {
+                        "foodOption": "SAME TIME",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "SAME TIME",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Kids Pizza Margherita",
+                "description": "",
+                "price": "$8.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/122c9b90-db8c-4bad-839b-1660c75e4a1a/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": [
+                    {
+                        "foodOption": "SAME TIME",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "SAME TIME",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Kids Mac & Cheese",
+                "description": "",
+                "price": "$8.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/d05ae8a2-1333-4790-a8b2-e9070c7ef53b/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": [
+                    {
+                        "foodOption": "SAME TIME",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "option": "SAME TIME",
+                                "price": "0.00"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "menuItem": "Kids Fries",
+                "description": "",
+                "price": "$5.00",
+                "href": "https://www.toasttab.com/bacari-west-3rd/v3/add/bf3adec1-1fed-4b7b-bdae-3fd2f743f7e0/6f9e2921-be88-4340-adb5-9303f3cebe51",
+                "foodOptions": []
+            }
+        ]
+    }
+]
