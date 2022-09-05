@@ -184,6 +184,14 @@ export class Navigator {
 
         await this.page.type('#payment_tip', tip)
 
+
+        const submitButton: puppeteer.ElementHandle<Element> | null = await this.page.$('#submit-button')
+        if (submitButton === null){
+            console.log('CAN\'T FIND SUBMIT BUTTON')
+        } else {
+            await submitButton.evaluate((button: any) => button.click())
+        }
+
     }
 
     async exit() {
