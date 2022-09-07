@@ -4,7 +4,7 @@
     "menuItem": {
       "__typename": "MenuItem",
       "id": "acd1fcac-196d-4eaa-81c9-83cffe0606b7",
-      "name": "Burrito",
+      "name": "Super Quesadilla",
       "description": "Choose one protein, rice, and any amount of ~Toppings",
       "price": 925,
       "reward": {
@@ -389,35 +389,17 @@
       },
       {
         "foodOptionId": "654df954-c08c-404e-99af-4a37a018193b",
-        "name": "Hot Toppings choices",
+        "name": "Two Side Options",
         "options": [
           {
             "optionId": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
-            "name": "Fajita Veggies",
+            "name": "Pico de galo",
             "price": null,
             "points": null
           },
           {
             "optionId": "0e38b768-2432-4acf-9045-d7eedf25345d",
-            "name": "Queso Sauce",
-            "price": null,
-            "points": null
-          }
-        ]
-      },
-      {
-        "foodOptionId": "654df954-c08c-404e-99af-4a37a018193b",
-        "name": "Cold toppings choices",
-        "options": [
-          {
-            "optionId": "eebf5bbb-ed41-4fb1-8e12-0626f6caa9a6",
-            "name": "Cheese",
-            "price": null,
-            "points": null
-          },
-          {
-            "optionId": "0e38b768-2432-4acf-9045-d7eedf25345d",
-            "name": "Pico de Galo (mild)",
+            "name": "Chipotle Mayo",
             "price": null,
             "points": null
           }

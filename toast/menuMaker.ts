@@ -1,18 +1,18 @@
 import * as puppeteer from "puppeteer";
 import * as fs from "fs"
 
-const toastWebsite = 'https://www.toasttab.com/bacari-west-3rd/v3'
-const goodComputer = false
+const toastWebsite = 'https://www.toasttab.com/el-jefes-cambridge-14-brattle-street/v3/'
+const goodComputer = true
 const headless = false
-const restaurantName = 'bacari'
+const restaurantName = 'jefes2'
 
 interface Option {
-    option: string
-    price: string
+    name: string
+    price: number | undefined
 }
 
 interface FoodOption {
-    foodOption: string
+    name: string
     numChoices: number | null
     minChoices: number
     required: boolean
@@ -20,16 +20,17 @@ interface FoodOption {
 }
 
 interface ItemInfo {
-    menuItem: string,
+    name: string,
     description: string,
-    price: string,
-    href: string
-    foodOptions: FoodOption[]
+    price: number,
+    href: string,
+    foodOptions: FoodOption[],
+    image: string | undefined,
 }
 
 interface CategoryInfo {
-    menuGroup: string,
-    items: ItemInfo[]
+    name: string,
+    menuItems: ItemInfo[]
 }
 
 class MenuMaker {
@@ -86,17 +87,25 @@ class MenuMaker {
         const name: string = await item.$eval('span[data-testid="menu-item-name"]', (nameEl: any) => nameEl.innerText)
         const description: string = await item.$eval('p[data-testid="menu-item-description"]', (nameEl: any) => nameEl.innerText)
         const priceElement: puppeteer.ElementHandle<Element> | null = await item.$('span[data-testid="menu-item-price"] > span')
-        let price: string = '0.00'
+        let price: number = 0;
         if (priceElement != null){
-            price = (await priceElement.evaluate(el => el.textContent))!
+            let priceText = (await priceElement.evaluate(el => el.textContent))!
+            price = price = parseInt(priceText.match(/\d/g)!.join(''));
         }
-        // console.log(name, href)
+        let image: string | undefined;
+        try {
+          const img: string = await item.$eval('div[data-testid="menu-item-image"]', (nameEl: any) => nameEl.getAttribute('style'));
+          if (img) image = img.substring(23, img.length - 3);
+        } catch (err) {
+          console.log(`No image ${name}` + err);
+        }
         return {
-            menuItem: name,
+            name: name,
             description: description,
             price: price,
             href: href,
-            foodOptions: []
+            foodOptions: [],
+            image,
         }
     }
 
@@ -104,8 +113,8 @@ class MenuMaker {
         const categoryName: string = await element.$eval('h3[data-testid="menu-group-name"]', el => (el as HTMLElement).innerText)
 
         const res: CategoryInfo = {
-            menuGroup: categoryName,
-            items: []
+            name: categoryName,
+            menuItems: []
         }
 
         const items: puppeteer.ElementHandle<Node>[] = await element.$$('a[data-testid="menu-item-link"]')
@@ -115,7 +124,7 @@ class MenuMaker {
 
         for (const item of itemInfo){
             if (item != null){
-                res.items.push(item)
+                res.menuItems.push(item)
             }
         }
 
@@ -128,13 +137,14 @@ class MenuMaker {
 
         const name: string = await element.$eval('div[data-testid="modifierDescription"] > div', el => (el as HTMLElement).innerText)
         const priceElement: puppeteer.ElementHandle<Element> | null = await element.$('span[data-testid="modifiers-price"] > span')
-        let price: string = '0.00'
+        let price: number | undefined;
         if (priceElement != null){
-            price = (await priceElement.evaluate(el => el.textContent))!
+            let priceText = (await priceElement.evaluate(el => el.textContent))!
+            if (priceText) price = parseInt(priceText.match(/\d/g)!.join(''));
         }
 
         return {
-            option: name,
+            name: name,
             price: price
         }
     }
@@ -168,7 +178,7 @@ class MenuMaker {
         const nonNullOptions: Option[] = options.filter(n => n) as Option[] // somehow gets rid of all the nulls ???
 
         return {
-            foodOption: name,
+            name: name,
             numChoices: numChoices,
             minChoices: minChoices,
             required: required,
@@ -214,8 +224,8 @@ class MenuMaker {
         const foodOptionsTasks: Promise<void>[] = []
 
         if (goodComputer){
-            for (const {items} of menu){
-                for (const item of items){
+            for (const {menuItems} of menu){
+                for (const item of menuItems){
                     // await this.scrapeFoodOptions(item)
                     foodOptionsTasks.push(this.scrapeFoodOptions(item))
                 }
@@ -224,8 +234,8 @@ class MenuMaker {
             // laggy af
             await Promise.all(foodOptionsTasks)
         } else {
-            for (const {items} of menu){
-                for (const item of items){
+            for (const {menuItems} of menu){
+                for (const item of menuItems){
                     await this.scrapeFoodOptions(item)
                     // foodOptionsTasks.push(this.scrapeFoodOptions(item))
                 }
