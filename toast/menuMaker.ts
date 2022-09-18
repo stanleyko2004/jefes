@@ -2,7 +2,7 @@ import * as puppeteer from "puppeteer";
 import * as fs from "fs"
 
 const toastWebsite = 'https://www.toasttab.com/saloniki-harvard-square/v3/'
-const goodComputer = true
+const goodComputer = false
 const headless = false
 const restaurantName = 'Salonikis'
 
@@ -90,14 +90,7 @@ class MenuMaker {
         let price: number = 0;
         if (priceElement != null){
             let priceText = (await priceElement.evaluate(el => el.textContent))!
-            price = price = parseInt(priceText.match(/\d/g)!.join(''));
-        }
-        let image: string | undefined;
-        try {
-          const img: string = await item.$eval('div[data-testid="menu-item-image"]', (nameEl: any) => nameEl.getAttribute('style'));
-          if (img) image = img.substring(23, img.length - 3);
-        } catch (err) {
-          console.log(`No image ${name}` + err);
+            price = parseInt(priceText.match(/\d/g)!.join(''));
         }
         return {
             name: name,
@@ -105,7 +98,7 @@ class MenuMaker {
             price: price,
             href: href,
             foodOptions: [],
-            image,
+            image: undefined,
         }
     }
 
@@ -116,6 +109,7 @@ class MenuMaker {
             name: categoryName,
             menuItems: []
         }
+        // await this.page.waitForNavigation({waitUntil: 'load', timeout: 120000})
 
         const items: puppeteer.ElementHandle<Node>[] = await element.$$('a[data-testid="menu-item-link"]')
         const itemInfoTasks: Promise<ItemInfo | null>[] = []
@@ -201,6 +195,14 @@ class MenuMaker {
 
         }
         const modal: puppeteer.ElementHandle<Element> = (await page.$('div[id="modal-root"]'))!
+
+        try {
+          const img: string = await modal.$eval('div[data-testid="modifier-image-url"]', (nameEl: any) => nameEl.getAttribute('style'));
+          console.log(img)
+          if (img) item.image = img.substring(23, img.length - 3);
+        } catch (err) {
+          console.log(`No image ${item.name}` + err);
+        }
 
         const foodOptionElements: puppeteer.ElementHandle<Element>[] = (await modal.$$('fieldset[data-testid="fieldset-group"]'))
         // last food option is always special instructions which is a textarea
