@@ -1,0 +1,2512 @@
+[
+    {
+        "name": "Pita Sandwiches",
+        "menuItems": [
+            {
+                "name": "Grilled Chicken Pita (Niko)",
+                "description": "grilled chicken thighs, greens, tomato, onion, fries, tzatziki, secret sauce",
+                "price": 1159,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/f07ee805-ded9-4c47-8631-e5cac9cec952/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "Fries on the Side"
+                            },
+                            {
+                                "name": "Sauce on the Side"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://s3.amazonaws.com/toasttab/restaurants/restaurant-19138000000000000/menu/items/3/item-200000007523776923_1626735458_180.jpg"
+            },
+            {
+                "name": "Chicken Souvlaki Pita",
+                "description": "grilled chicken skewer, Greek mustard sauce, tomatoes, onions, fries & oregano",
+                "price": 1159,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/7091ba69-9067-4cbc-8c06-d37eca04cfcb/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Zucchini",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "Fries on the Side"
+                            },
+                            {
+                                "name": "Sauce on the Side"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://s3.amazonaws.com/toasttab/restaurants/restaurant-19138000000000000/menu/items/7/item-200000013189127577_1626736131_180.jpg"
+            },
+            {
+                "name": "Braised Pork Pita (Herc)",
+                "description": "braised pork shoulder , greens, tomato, onion, fries, slaw, spicy whipped feta, secret sauce",
+                "price": 1159,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/4a22b96d-0fd7-4818-864e-f20ca311f52e/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "Fries on the Side"
+                            },
+                            {
+                                "name": "Sauce on the Side"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spicy Lamb Meatball Pita (George)",
+                "description": "spicy lamb meatballs, greens, tomato, onion, fries, slaw, charred eggplant sauce, garlic yogurt, secret sauce",
+                "price": 1259,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/d4acb000-77c3-4499-89fa-8181e12a4e5f/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zucchini-Feta Fritters Pita (Despena)",
+                "description": "(vegetarian) zucchini - feta fritters, greens, tomato, onion, herbs, fries, garlic yogurt, secret sauce",
+                "price": 1059,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/f7397222-fcab-4eb3-8c83-0c232f40d606/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Impossible Meatball Pita",
+                "description": "(vegan) two Impossible meatballs, greens, tomato, onion, fries, charred eggplant sauce",
+                "price": 1259,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/ea3ca10c-6967-4df6-bf73-688f8a5be11b/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crispy Chicken Avocado Bacon Pita",
+                "description": "",
+                "price": 1259,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/1b482ba4-b5b2-4b04-b9e0-f8343e855dc9/7a77284e-ae8e-44f8-926e-28c74359da63",
+                "foodOptions": [
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Tomatoes"
+                            },
+                            {
+                                "name": "No Onions"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Cheese"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "Sauce On The Side"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Saloniki Salads",
+        "menuItems": [
+            {
+                "name": "Mt. Olympus Salad",
+                "description": "grilled chicken thighs, greens, grape tomatoes, cucumbers, pickled onion, Greek olives, capers, peppers, feta & house-made vinaigrette",
+                "price": 1559,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/b6d2626e-cb28-4e54-975b-d9a049f1f4c4/cf49c2ac-bfd5-42d5-a716-48e09c541004",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mykonos Salad",
+                "description": "zucchini fritters, greens, grape tomatoes, cucumbers, pickled onion, Greek olives, capers, peppers, feta & house-made vinaigrette",
+                "price": 1359,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/be0f332b-ab5a-4b26-9bae-31be2af6b5fa/cf49c2ac-bfd5-42d5-a716-48e09c541004",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Village Salad",
+                "description": "greens, grape tomatoes, cucumbers, pickled onion, Greek olives, capers, peppers, feta & house-made vinaigrette",
+                "price": 1159,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/8f58ddcf-42ba-49a9-ab6f-0aa8b6b644bf/cf49c2ac-bfd5-42d5-a716-48e09c541004",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Santorini Summer Salad",
+                "description": "",
+                "price": 1459,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/f42f5b35-b69a-4ca7-92c5-3876fdbd8f24/cf49c2ac-bfd5-42d5-a716-48e09c541004",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Salad Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Dressing"
+                            },
+                            {
+                                "name": "No Dressing"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Olives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Saloniki Meals",
+        "menuItems": [
+            {
+                "name": "Grilled Chicken Meal",
+                "description": "Lemon-oregano grilled chicken, lemon potatoes, small Greek salad (chopped tomatoes, cucumbers, onion & feta), and tzatziki served with a just-made pita",
+                "price": 1499,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/8a04ff0d-1c65-42d7-bc4a-ad43c7aee1ac/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Souvlaki Classic Meal",
+                "description": "grilled chicken skewer, Greek fries, small Greek salad, pita, tzatziki",
+                "price": 1399,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/74e0e336-67a5-44d1-a797-3e0ea772f802/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Souvlaki Double Classic Meal",
+                "description": "two grilled chicken skewers, Greek fries, small Greek salad, pita, tzatziki",
+                "price": 1699,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/3dfdb300-b204-45b9-9e69-75f6033427bd/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Braised Pork Meal",
+                "description": "braised pork shoulder, fries, chopped salad, pita, slaw, spicy whipped feta",
+                "price": 1499,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/2b56f494-b14a-4d9a-8c0a-f81aef5c8930/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Slaw"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spicy Lamb Meatball Meal",
+                "description": "lamb meatballs, brown rice, garlic yogurt, chopped salad, pita, charred eggplant",
+                "price": 1599,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/98aa7a5a-a633-446d-a464-b1a9c15d8e2f/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Zucchini-Feta Fritters Meal",
+                "description": "zucchini fritters, brown rice, chopped salad, pita, garlic yogurt",
+                "price": 1399,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/9ef6c9dd-2ea7-4889-afdf-2765b7b085cb/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Impossible Meatball Meal",
+                "description": "Impossible meatballs, brown rice, chopped salad, pita, charred eggplant sauce",
+                "price": 1699,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/a1d816a6-3183-4d45-a27b-d646cfc669a1/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Greek-Style Spatchcock Chicken Meal HALF",
+                "description": "With Tzatziki, charred lemon, myzithra cheese, small Greek Salad & crispy smashed potatoes",
+                "price": 2099,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/64d649f1-8504-4308-bd24-8921ea9c45ba/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Greek-Style Spatchcock Chicken Meal WHOLE",
+                "description": "With Tzatziki, charred lemon, myzithra cheese, small Greek Salad & crispy smashed potatoes",
+                "price": 2999,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/a60fe3fd-f915-47f9-a6d3-5fa7d082378c/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mixed Grill Meal",
+                "description": "two grilled chicken skewers, four lamb meatballs, halloumi, Greek fries, small Greek salad, two pitas, tzatziki, spicy whipped feta",
+                "price": 3999,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/b5de94fe-99e9-4861-9e30-4de95a56e46f/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crispy Chicken Meal",
+                "description": "",
+                "price": 1599,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/c358f753-a396-421e-a959-cb8d58c30acb/4dddd6df-f098-4b8d-a9df-3c81cebaf7bd",
+                "foodOptions": [
+                    {
+                        "name": "Allergy",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tree Nut Allergy"
+                            },
+                            {
+                                "name": "Peanut Allergy"
+                            },
+                            {
+                                "name": "Soy Allergy"
+                            },
+                            {
+                                "name": "Dairy Allergy"
+                            },
+                            {
+                                "name": "Egg Allergy"
+                            },
+                            {
+                                "name": "Gluten Allergy"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Plate Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Pita"
+                            },
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Cucumber"
+                            },
+                            {
+                                "name": "No Feta"
+                            },
+                            {
+                                "name": "No Herbs"
+                            },
+                            {
+                                "name": "No Sauce"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Sauce",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Tzatziki",
+                                "price": 69
+                            },
+                            {
+                                "name": "Spicy Feta",
+                                "price": 69
+                            },
+                            {
+                                "name": "Garlic Yogurt",
+                                "price": 69
+                            },
+                            {
+                                "name": "Charred Eggplant",
+                                "price": 69
+                            },
+                            {
+                                "name": "Secret Sauce",
+                                "price": 69
+                            },
+                            {
+                                "name": "Sriracha",
+                                "price": 69
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Protein",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Grilled Chicken",
+                                "price": 300
+                            },
+                            {
+                                "name": "Pork",
+                                "price": 300
+                            },
+                            {
+                                "name": "Homestyle Lamb Meatballs",
+                                "price": 300
+                            },
+                            {
+                                "name": "Halloumi",
+                                "price": 300
+                            },
+                            {
+                                "name": "Crispy Chicken",
+                                "price": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Extra Pita",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Extra Pita",
+                                "price": 100
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pita Adjustments",
+                        "numChoices": null,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "No Tomato"
+                            },
+                            {
+                                "name": "No Onion"
+                            },
+                            {
+                                "name": "No Greens"
+                            },
+                            {
+                                "name": "No Fries"
+                            },
+                            {
+                                "name": "No Sauce"
+                            },
+                            {
+                                "name": "Fries on the Side"
+                            },
+                            {
+                                "name": "Sauce on the Side"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Saloniki Sides",
+        "menuItems": [
+            {
+                "name": "Crispy Feta Puffs",
+                "description": "",
+                "price": 800,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/9ed4b9c7-732d-4be8-809e-a79fd167a4d3/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Impossible Moussaka",
+                "description": "Layers of spiced slow cooked “impossible meat”, eggplant & bechamel topped with graviera cheese",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/75e1dd5c-c16f-4af9-9e60-d8b5ad494284/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Griddled Cheese Pita",
+                "description": "",
+                "price": 700,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/41e0cea8-8dc8-491b-be80-a6add9ea1e92/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Griddled Spanakopita Pita",
+                "description": "",
+                "price": 800,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/e019953b-51b7-4e68-b9f4-b0c00733152e/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Yia-Yia Soup",
+                "description": "",
+                "price": 700,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/dfa7a1ac-1e3c-4cfa-ad5e-b99b73173911/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Grilled Halloumi Cheese",
+                "description": "",
+                "price": 700,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/d7b8a6d4-de7c-4727-814f-e0a4d8ea04e9/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Fries & Feta",
+                "description": "",
+                "price": 600,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/8e446829-1383-4c50-8204-e8cff69c7a47/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Crispy Smashed Potatoes",
+                "description": "Tossed with herb salt",
+                "price": 600,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/f52bc2fd-f1bd-49f7-bfec-e346a632bab5/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Zucchini-Feta Fritters Side",
+                "description": "",
+                "price": 600,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/17283e33-2a1d-432f-8ad6-93b97aa0283f/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Brown Rice with Sofrito",
+                "description": "",
+                "price": 400,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/364cc0ad-7a01-47d2-a444-c060f3bf57c3/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Lamb Meatballs Side",
+                "description": "",
+                "price": 700,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/9d4f1eac-819d-4951-866b-a7e69b286c0e/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Side Pita",
+                "description": "",
+                "price": 100,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/8cc19ebe-1dfe-48c8-859e-6d869cc885a7/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Side Sauce",
+                "description": "",
+                "price": 69,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/c082dfaf-a0f0-4dbe-a972-6916e7c8ee94/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": [
+                    {
+                        "name": "Side Sauce",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Tzatziki"
+                            },
+                            {
+                                "name": "Garlic Yogurt"
+                            },
+                            {
+                                "name": "Spicy Feta"
+                            },
+                            {
+                                "name": "Charred Eggplant"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fries No Cheese",
+                "description": "",
+                "price": 400,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/1d9b790e-23e9-4ba2-b936-13f5a0d475a5/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            },
+            {
+                "name": "Skewer",
+                "description": "Chargrilled skewer of your choice: chicken or lamb",
+                "price": 450,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/70ebb4b4-3d1c-4303-9465-e6af5a2b6d12/86f2310d-ed60-4b67-935b-67bb18b54470",
+                "foodOptions": []
+            }
+        ]
+    },
+    {
+        "name": "Drinks & Dessert",
+        "menuItems": [
+            {
+                "name": "Baklava Crisps",
+                "description": "",
+                "price": 600,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/dcb85cdd-be89-4a63-80c1-4a90711dc6c2/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": []
+            },
+            {
+                "name": "Saloniki Greek Yogurt",
+                "description": "",
+                "price": 700,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/ecff20d4-80a1-4dd7-a9a7-e4df89aa8823/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Flavor",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Plain (Yogurt)"
+                            },
+                            {
+                                "name": "Sour Cherry (Yogurt)"
+                            },
+                            {
+                                "name": "Honey (Yogurt)"
+                            },
+                            {
+                                "name": "Lemon Curd (Yogurt)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Saloniki Greek Fro Yo",
+                "description": "",
+                "price": 600,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/28dd5f15-453a-4a6d-aef6-0a3e846ec563/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Frozen Yogurt Toppings",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Sour Cherry"
+                            },
+                            {
+                                "name": "Olive Oil & Salt"
+                            },
+                            {
+                                "name": "Caramel & Pistachio"
+                            },
+                            {
+                                "name": "None"
+                            },
+                            {
+                                "name": "Nutella & Baklava"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Greek Donuts",
+                "description": "",
+                "price": 800,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/2bd3e0f4-27e6-4972-ba1b-9f9dd9524397/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Flavor",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Honey & Cinnamon"
+                            },
+                            {
+                                "name": "Greek Sour Cherry"
+                            },
+                            {
+                                "name": "Nutella & Baklava Crumbles"
+                            },
+                            {
+                                "name": "Caramel & Pistachio"
+                            },
+                            {
+                                "name": "Yogurt & Lemon Curd"
+                            },
+                            {
+                                "name": "Plain"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spindrift Seltzers",
+                "description": "Your choice of refreshing local seltzers",
+                "price": 300,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/54a251c0-fe6c-493b-bbd9-e79d892fd939/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Flavor",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Raspberry Lime"
+                            },
+                            {
+                                "name": "Lemon"
+                            },
+                            {
+                                "name": "Grapefruit"
+                            },
+                            {
+                                "name": "Orange Mango"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Amita Juice",
+                "description": "",
+                "price": 400,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/6da49c21-fddf-421e-ae0a-2d475bc7d939/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Juice Flavor",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Sour Cherry"
+                            },
+                            {
+                                "name": "Peach"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Greek Frappe",
+                "description": "Whipped Nescafé, evaporated milk & sugar",
+                "price": 400,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/c51d687a-3bd7-41b5-a0eb-935128ac964a/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": []
+            },
+            {
+                "name": "Water",
+                "description": "",
+                "price": 200,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/e3884b21-a946-4ed4-8cdc-62416ac9e93c/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": []
+            },
+            {
+                "name": "Epsa Soda",
+                "description": "",
+                "price": 400,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/1ed177cd-ca3c-4a45-b5c6-b9812d7e9ec2/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Epsa Choice",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Blood Orange"
+                            },
+                            {
+                                "name": "Lime"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Housemade Teas & Lemonades",
+                "description": "",
+                "price": 0,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/191aff6c-4d94-4729-a8e0-1c389a56b5a1/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": [
+                    {
+                        "name": "Size",
+                        "numChoices": 1,
+                        "minChoices": 1,
+                        "required": true,
+                        "options": [
+                            {
+                                "name": "Small",
+                                "price": 359
+                            },
+                            {
+                                "name": "Large",
+                                "price": 459
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bev Selection",
+                        "numChoices": 1,
+                        "minChoices": 0,
+                        "required": false,
+                        "options": [
+                            {
+                                "name": "Greek Iced Tea - Black tea, lemon, mint"
+                            },
+                            {
+                                "name": "Jody's Lemonade - cucumber, mint, lemon"
+                            },
+                            {
+                                "name": "Peach Lemonade - peach juice, lemon, mint"
+                            },
+                            {
+                                "name": "Visino Limeade - sour cherry juice, lime, mint"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nescafe Instant Coffee Can",
+                "description": "",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/3faa99ec-014e-4b08-bb05-908987bc31e9/1f2347f9-e85a-4183-940c-510fae738f05",
+                "foodOptions": []
+            }
+        ]
+    },
+    {
+        "name": "Cocktails To-Go",
+        "menuItems": [
+            {
+                "name": "Mykonos",
+                "description": "Reposado tequila, lemon, peach, thai chili",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/67323cb4-8c53-4dce-9b5a-414bcc9e1b31/a60e713e-8efc-410f-8ca5-13bdac767d5e",
+                "foodOptions": []
+            },
+            {
+                "name": "Rita-Ritaki",
+                "description": "Tequila, tsipouro, lime, honey",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/70d65a15-7a89-49bf-9f72-0d90cdc4c8a0/a60e713e-8efc-410f-8ca5-13bdac767d5e",
+                "foodOptions": []
+            },
+            {
+                "name": "Saloniki Daiquiri",
+                "description": "White rum, lime, simple, bitters",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/6f25d342-5c17-47d0-b57e-2f5b0506a282/a60e713e-8efc-410f-8ca5-13bdac767d5e",
+                "foodOptions": []
+            },
+            {
+                "name": "Santorini Sangria",
+                "description": "Red Wine, sour cherry, Greek spice mix",
+                "price": 1000,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/d1b366bd-c70b-4963-a75b-d0954384cff2/a60e713e-8efc-410f-8ca5-13bdac767d5e",
+                "foodOptions": []
+            }
+        ]
+    },
+    {
+        "name": "Bag Fee",
+        "menuItems": [
+            {
+                "name": "Cambridge Bag Fee",
+                "description": "",
+                "price": 15,
+                "href": "https://www.toasttab.com/saloniki-harvard-square/v3/add/b66c3963-82b8-42f0-8a70-d62575e5018e/6fd72c80-0227-4b8e-b1c0-3a3778733e56",
+                "foodOptions": []
+            }
+        ]
+    }
+]

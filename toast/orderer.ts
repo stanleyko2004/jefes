@@ -29,8 +29,8 @@ const orderFromFile = async (filename: string): Promise<void> => {
     // console.log(orderingArgs);
 
     const firstName = 'toppings'
-    const lastName = 'lastName' // idk???
-    const email = 'raymondqin@toppingsapp.com'
+    const lastName = 'shanshan' // idk???
+    const email = 'colin@toppingsapp.com'
     const phoneNumber = '6787101220'
     const tip = '0.00' // also idk???
 
@@ -54,7 +54,7 @@ const orderFromFile = async (filename: string): Promise<void> => {
         for (const args of orderingArgs) await n.addOrderToCart(args)
         await n.checkout(paymentInfo)
     }
-    // await n.exit()
+    await n.exit()
 }
 
 const input: string = './orders'
