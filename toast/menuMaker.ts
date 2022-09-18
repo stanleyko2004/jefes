@@ -1,10 +1,10 @@
 import * as puppeteer from "puppeteer";
 import * as fs from "fs"
 
-const toastWebsite = 'https://www.toasttab.com/el-jefes-cambridge-14-brattle-street/v3/'
+const toastWebsite = 'https://www.toasttab.com/saloniki-harvard-square/v3/'
 const goodComputer = true
 const headless = false
-const restaurantName = 'jefes2'
+const restaurantName = 'Salonikis'
 
 interface Option {
     name: string
