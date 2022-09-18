@@ -110,8 +110,10 @@ export class Navigator {
         for (const option of options){
             // console.log(option)
             try {
+                const escapedQuotes: string = option.includes('"') ? 'concat("' + option.replace(/"/g, `", '"', "`) +'")' : '"' + option + '"'
+                console.log(escapedQuotes)
                 // cuz toast sometimes adds random whitespace
-                const [optionText] = await this.modal.$x(`//div[@data-testid="modifierDescription"]/div[normalize-space(text())="${option}"]`)
+                const [optionText] = await this.modal.$x(`//div[@data-testid="modifierDescription"]/div[normalize-space(text())=${escapedQuotes}]`)
                 await optionText.evaluate((button: any) => button.click())
             } catch(e) {
                 console.error('CANNOT FIND OPTION: ', option)
@@ -186,11 +188,11 @@ export class Navigator {
 
 
         const submitButton: puppeteer.ElementHandle<Element> | null = await this.page.$('#submit-button')
-        if (submitButton === null){
-            console.log('CAN\'T FIND SUBMIT BUTTON')
-        } else {
-            await submitButton.evaluate((button: any) => button.click())
-        }
+        // if (submitButton === null){
+        //     console.log('CAN\'T FIND SUBMIT BUTTON')
+        // } else {
+        //     await submitButton.evaluate((button: any) => button.click())
+        // }
 
     }
 
