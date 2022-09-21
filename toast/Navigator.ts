@@ -134,9 +134,13 @@ export class Navigator {
     for (const option of options) {
       // console.log(option)
       try {
+        // escape double quotes
+        const escapedQuotes: string = option.includes('"') ? 'concat("' + option.replace(/"/g, `", '"', "`) + '")' : '"' + option + '"'
+        console.log(escapedQuotes)
         // cuz toast sometimes adds random whitespace
+
         const [optionText] = await this.modal.$x(
-          `//div[@data-testid="modifierDescription"]/div[normalize-space(text())="${option}"]`
+          `//div[@data-testid="modifierDescription"]/div[normalize-space(text())=${escapedQuotes}]`
         );
         await optionText.evaluate((button: any) => button.click());
       } catch (e) {

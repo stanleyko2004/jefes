@@ -54,6 +54,7 @@ class MenuMaker {
 
     async menuMaker(): Promise<CategoryInfo[]> {
         this.page = await this.browser.newPage()
+        this.page.setDefaultTimeout(0)
         await this.page.goto(this.url)
         await this.wait()
         if (this.page.url().endsWith('/?mode=fulfillment')){
