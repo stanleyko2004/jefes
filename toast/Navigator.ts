@@ -284,10 +284,20 @@ export class Navigator {
       if (submitButton === null) {
         console.log("CAN'T FIND SUBMIT BUTTON");
       } else {
-        await Promise.all([
-          submitButton.evaluate((button: any) => button.click()),
-          this.page.waitForNavigation({waitUntil: 'networkidle2'})
-        ]);
+        console.log(1)
+        await submitButton.evaluate((button: any) => button.click());
+        console.log('CLICKED SUBMIT')
+        await this.page.waitForFunction(`window.location.href.startsWith("${this.url}/confirm")`, {timeout: 60000})
+        console.log('AT CONFIRM PAGE, URL: ', this.page.url())
+        // await this.page.waitForNavigation({waitUntil: 'networkidle0', timeout: 60000})
+
+        console.log('command: ', `window.location.href.startsWith("${this.url}/confirm")`)
+        await this.page.screenshot({'path': 'receipt.png', 'fullPage': true})
+        console.log('SS')
+        // await Promise.all([
+        //   submitButton.evaluate((button: any) => button.click()),
+        //   this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 120000})
+        // ]);
       }
     } catch (e) {
       console.log(e);
