@@ -284,10 +284,13 @@ export class Navigator {
       if (submitButton === null) {
         console.log("CAN'T FIND SUBMIT BUTTON");
       } else {
-        await Promise.all([
-          submitButton.evaluate((button: any) => button.click()),
-          this.page.waitForNavigation({waitUntil: 'networkidle2'})
-        ]);
+        const navPromise = this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 120000});
+        await submitButton.evaluate((button: any) => button.click());
+        await navPromise;
+        // await Promise.all([
+        //   submitButton.evaluate((button: any) => button.click()),
+        //   this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 120000})
+        // ]);
       }
     } catch (e) {
       console.log(e);
