@@ -116,11 +116,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/2422542/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Passion Grape Slush",
-                "description": "",
+                "description": "A limited time offering, adding passion fruit & lemon gives a tropical twist to the white grape slush.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -227,7 +228,7 @@
             },
             {
                 "name": "Cocoa Lava Slush",
-                "description": "",
+                "description": "The ultimate chocolate slush. Loaded with Hershey’s chocolate and oreo cookies. Creamy & rich.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -336,11 +337,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/549360/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "S'mores Slush",
-                "description": "",
+                "description": "Hershey’s chocolate blended with ice, gooey marshmallow, and graham crackers.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -449,7 +451,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/282866/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Black Tea Wow Milk Cap",
@@ -584,7 +587,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/240031/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Green Tea Wow Milk Cap",
@@ -719,7 +723,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/240032/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Oolong Tea Wow Milk Cap",
@@ -854,11 +859,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/240033/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Cocoa",
-                "description": "",
+                "description": "Fresh milk with Hershey’s chocolate and vanilla.",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -985,7 +991,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/282867/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Sunshine Grape-ade",
@@ -1236,7 +1243,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212628/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -1264,7 +1272,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/1017184/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KFT2GO Dragon Pop x1",
@@ -1290,25 +1299,29 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/829796/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KFT2GO Dragon Pop x5",
                 "description": "Pack of 5x KFT Dragon Pops. Assorted flavors.",
                 "price": "$19.95",
-                "foodOptions": []
+                "foodOptions": [],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/829797/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KFT2GO KF Green Tea Can x1",
                 "description": "Crafted with KFT premium ingredients for a light, refreshing, and aromatic blend of green tea! - 10.8 fl oz/can",
                 "price": "$1.92",
-                "foodOptions": []
+                "foodOptions": [],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/540864/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KFT2GO KF Green Tea Can x6",
                 "description": "Crafted with KFT premium ingredients for a light, refreshing, and aromatic blend of green tea! - 10.8 fl oz/can (Pack of 6)",
                 "price": "$10.55",
-                "foodOptions": []
+                "foodOptions": [],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/540865/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -1317,7 +1330,7 @@
         "items": [
             {
                 "name": "KF Black Tea",
-                "description": "",
+                "description": "Earl grey tea with bergamot. Bold & citrusy.",
                 "price": "$4.15",
                 "foodOptions": [
                     {
@@ -1446,11 +1459,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212191/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KF Green Tea",
-                "description": "",
+                "description": "Refreshing jasmine green tea sweetened with cane sugar",
                 "price": "$4.15",
                 "foodOptions": [
                     {
@@ -1579,11 +1593,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212192/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KF Oolong Tea",
-                "description": "",
+                "description": "Golden oolong tea sweetened with cane sugar. Fresh & toasty.",
                 "price": "$4.15",
                 "foodOptions": [
                     {
@@ -1712,11 +1727,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212193/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KF Honey Tea",
-                "description": "",
+                "description": "Rich blend of sweet longan honey.",
                 "price": "$4.15",
                 "foodOptions": [
                     {
@@ -1842,11 +1858,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212194/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Green Tea",
-                "description": "Traditional Winter Melon elevated with our jasmine green tea! Smooth with hints of caramel.",
+                "description": "Smooth winter melon & fragrant jasmine green tea.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -1981,11 +1998,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212199/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Black Tea",
-                "description": "A blend of Longan Honey and citrusy Earl Grey Black Tea. Bold and Sweet.",
+                "description": "Rich honey & earl grey tea. Sweet & bold.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2120,11 +2138,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212195/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Green Tea",
-                "description": "",
+                "description": "Sweet honey & fragrant jasmine green tea.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2259,11 +2278,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212196/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Oolong Tea",
-                "description": "",
+                "description": "Rich honey & smooth oolong tea.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2398,11 +2418,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212197/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Tea",
-                "description": "",
+                "description": "Sweet & smooth winter melon.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2528,11 +2549,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212198/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Longan Jujube Tea",
-                "description": "Chinese red date also called Jujube, tasty tantalizing red date blends with sweet Longan. Sweet and Rich.",
+                "description": "Jujube (Red Date) paired with longan honey. Sweet and rich.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2667,7 +2689,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212200/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -2676,7 +2699,7 @@
         "items": [
             {
                 "name": "Lemon Black Tea",
-                "description": "",
+                "description": "Bold black tea paired with fresh-squeezed lemon juice & cane sugar.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2801,11 +2824,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212591/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Lemon Green Tea",
-                "description": "",
+                "description": "Refreshing green tea paired with fresh-squeezed lemon juice & cane sugar.",
                 "price": "$4.65",
                 "foodOptions": [
                     {
@@ -2930,11 +2954,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212592/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Lychee Punch",
-                "description": "Light and tart lychee mixed with floral Jasmine Green Tea. Sweet and Fragrant.",
+                "description": "Sweet lychee & fragrant jasmine green tea.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3065,11 +3090,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212211/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mango Green Tea",
-                "description": "Product includes Mango Jelly topping. Exclude the topping by select \"No Mango Jelly\" in option below.",
+                "description": "Sweet mango & refreshing jasmine green tea. Inc. Mango Jelly topping. Exclude the topping select \"No Mango Jelly\" in option below.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3210,11 +3236,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212212/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Peach Oolong Tea",
-                "description": "Refreshing peach and Golden Oolong Tea. Fragrant and Refreshing.",
+                "description": "Refreshing peach & golden oolong tea. Sweet & refreshing.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3345,11 +3372,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212213/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Orange Green Tea",
-                "description": "Fresh orange juice with our Jasmine Green Tea. Floral and Sweet.",
+                "description": "Fresh orange juice & jasmine green tea. Sweet & tart.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3480,11 +3508,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212214/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Grapefruit Green Tea",
-                "description": "Fresh grapefruit with our Jasmine Green Tea. Floral and Tart.",
+                "description": "Fresh-squeezed grapefruit juice & refreshing jasmine green tea.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3615,11 +3644,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212215/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Passion Fruit Green Tea",
-                "description": "Floral Jasmine Green Tea with flavorful passion fruit. Tart and Sweet.",
+                "description": "Fan-favorite blend of passion fruit & jasmine green tea. Sweet & tart.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -3750,146 +3780,12 @@
                             }
                         ]
                     }
-                ]
-            },
-            {
-                "name": "Strawberry Lemon Green Tea",
-                "description": "",
-                "price": "$4.85",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            },
-                            {
-                                "name": "No S 0%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212217/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Strawberry Lemonade",
-                "description": "Sweet strawberry and tart lemonade come together in this refreshing treat. Refreshing, Sweet and Tart",
+                "description": "Sweet strawberry & lemonade. A classic fan-favorite.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -4020,11 +3916,148 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212219/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Strawberry Lemon Green Tea",
+                "description": "Sweet strawberry, tart lemonade, & fragrant jasmine green tea.",
+                "price": "$4.85",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            },
+                            {
+                                "name": "No S 0%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212218/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Lychee Black Tea",
-                "description": "Light and tart lychee mixed with bold Earl Grey Tea. Sweet and Citrusy.",
+                "description": "Sweet lychee & black tea. Bold & refreshing.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -4155,11 +4188,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212220/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Rosehip Lemonade",
-                "description": "Fresh lemon with rosehip and blueberry hints. Tart and Fruity.",
+                "description": "Fresh-squeezed lemonade with hints of rosehip & blueberry. Tart & fruity.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -4290,7 +4324,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212221/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Lemonade",
@@ -4419,7 +4454,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212593/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Sunshine Grape-ade",
@@ -4551,7 +4587,7 @@
         "items": [
             {
                 "name": "KF Milk Tea",
-                "description": "A masterful blend of our bold Earl Grey tea, cane sugar and creamy milk powder. Sweet, Creamy, and Decadent.",
+                "description": "Earl grey tea, cane sugar, & milk powder. Our signature drink!",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -4686,11 +4722,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212222/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "KF Milk Green Tea",
-                "description": "Fragrant Jasmine Green tea, cane sugar and creamy milk powder. Floral, Creamy, and Delicate.",
+                "description": "Jasmine green tea & milk powder. Sweetened with natural cane sugar.",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -4825,11 +4862,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212223/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Oolong Milk Tea",
-                "description": "A smooth combination of our Golden Oolong Tea, cane sugar and milk powder. Creamy, Toasty, and Fragrant.",
+                "description": "Toasty oolong tea & milk powder. Sweet & smooth.",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -4964,11 +5002,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212224/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Milk Green Tea",
-                "description": "Traditional Winter Melon elevated with our jasmine green tea and creamy milk powder! Smooth with hints of caramel.",
+                "description": "Refreshing winter melon, jasmine green tea, & milk powder. Sweet & smooth.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5103,11 +5142,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212230/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Taro Milk Tea",
-                "description": "Earl Grey Black Tea, Sweetness of Taro and creamy milk powder. Nutty, Sweet, and Creamy.",
+                "description": "Taro, earl grey tea, & milk powder. Sweet & creamy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5242,11 +5282,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212225/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Coffee Milk Tea",
-                "description": "Our Kung Fu Milk Tea with an added kick of Kung Fu Tea espresso. Sweet, Creamy, and Bold.",
+                "description": "Signature Kung Fu Milk Tea with a kick of espresso. Sweet, bold, & creamy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5385,11 +5426,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212228/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Taro Milk Green Tea",
-                "description": "Jasmine Green Tea, Sweetness of Taro and creamy milk powder. Nutty, Sweet, and Creamy.",
+                "description": "Taro, jasmine green tea, & milk powder. Sweet & creamy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5524,11 +5566,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212226/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Milk Tea",
-                "description": "A blend of Longan Honey, creamy milk powder, and citrusy Earl Grey Black Tea. Bold and Creamy.",
+                "description": "Longan honey, milk powder, & earl grey tea. Sweet & smooth.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5660,11 +5703,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212231/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Milk Green Tea",
-                "description": "A blend of Longan Honey, creamy milk powder, and Floral Jasmine Green Tea. Fragrant and Sweet.",
+                "description": "Longan honey, milk powder, & jasmine green tea. Sweet & fragrant.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5799,11 +5843,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212232/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Honey Oolong Milk Tea",
-                "description": "A blend of Longan Honey, creamy milk powder, and Golden Oolong Tea. Sweet and Toasty.",
+                "description": "Longan honey, milk powder, & golden oolong tea. Smooth & toasty.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -5938,11 +5983,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212233/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Thai Milk Tea",
-                "description": "We combined our creamy milk creamer with authentic thai tea leaves to make this decadent treat. Satisfy your sweet tooth with the rich flavor of caramel and the smooth hints of vanilla. The perfect addition to our milk tea!",
+                "description": "Delicious thai milk tea sweetened with cane sugar. No artificial coloring.",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -6077,11 +6123,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212235/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Rosehip Milk Tea",
-                "description": "Bright Earl Grey Tea elevated with hints of rosehip and blueberry. Floral and Fruity.",
+                "description": "Earl grey tea with hints of rosehip & blueberry. Smooth & fruity.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -6200,11 +6247,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212234/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Almond Milk Tea",
-                "description": "Sweet Almond and Earl Grey Black Tea with creamy milk powder. Bright, Nutty, and Sweet.",
+                "description": "Sweet almond, earl grey tea, & milk powder. Sweet & nutty.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -6339,11 +6387,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212229/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Coconut Milk Tea",
-                "description": "Creamy Coconut and Earl Grey Black Tea blend together in this tropical treat. Bright, Nutty, and Decadent.",
+                "description": "Coconut, earl grey tea, & milk powder. Rich & nutty.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -6478,11 +6527,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212227/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Coconut Milk Tea",
-                "description": "",
+                "description": "Coconut, winter melon, jasmine green tea, & milk powder. Sweet & smooth.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -6607,7 +6657,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212594/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Caramel Milk Tea",
@@ -6735,7 +6786,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/347638/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -6856,11 +6908,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/2422542/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Caramel Macchiato Slush",
-                "description": "A rich blend of our signature espresso with ice then mixed with caramel drizzle for a decadent treat.",
+                "description": "Our signature coffee slush with caramel & vanilla.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -6976,11 +7029,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212843/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Passion Grape Slush",
-                "description": "",
+                "description": "A limited time offering, adding passion fruit & lemon gives a tropical twist to the white grape slush.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7087,7 +7141,7 @@
             },
             {
                 "name": "Coffee Slush",
-                "description": "An icy and sweet coffee pick-me up to get your day going.",
+                "description": "Espresso, sugar, & milk powder. Bold & creamy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7203,11 +7257,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212243/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mango Slush",
-                "description": "Product includes Mango Jelly topping. Exclude the topping by select \"No Mango Jelly\" in option below.",
+                "description": "Sweet & refreshing mango blended with ice. Inc. Mango Jelly topping. Exclude topping select \"No Mango Jelly\"",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7329,11 +7384,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212842/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Cocoa Lava Slush",
-                "description": "",
+                "description": "The ultimate chocolate slush. Loaded with Hershey’s chocolate and oreo cookies. Creamy & rich.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7442,11 +7498,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/549360/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Matcha Red Bean Slush",
-                "description": "Creamy matcha blended with ice, topped with red bean. Sweet and Fragrant.",
+                "description": "Matcha blended with sweet red beans, milk powder, & ice.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7565,11 +7622,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212238/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mango Snow",
-                "description": "Product includes Mango Jelly topping. Select \"No Mango Jelly\" option below to omit.",
+                "description": "Sweet mango & milk powder. Creamy & refreshing. Inc Mango Jelly topping. Select \"No Mango Jelly\" to exclude topping.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7691,11 +7749,126 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212844/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "S'mores Slush",
+                "description": "Hershey’s chocolate blended with ice, gooey marshmallow, and graham crackers.",
+                "price": "$5.25",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            },
+                            {
+                                "name": "No S 0%"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/282866/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mocha Slush",
-                "description": "",
+                "description": "Our signature coffee slush with rich chocolate.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -7811,124 +7984,12 @@
                             }
                         ]
                     }
-                ]
-            },
-            {
-                "name": "S'mores Slush",
-                "description": "",
-                "price": "$5.25",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            },
-                            {
-                                "name": "No S 0%"
-                            }
-                        ]
-                    }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212244/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Oreo Slush",
-                "description": "A creamy blend of fresh milk, smooth vanilla and crushed oreos. Chocolatey and Decadent.",
+                "description": "Hershey’s chocolate syrup, milk powder, vanilla syrup, and crushed Oreos.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8040,11 +8101,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212247/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Passion Fruit Slush",
-                "description": "Exotic Passion Fruit blended with ice. Tropical and Refreshing.",
+                "description": "Passion fruit syrup blending with ice. Sweet & refreshing.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8156,11 +8218,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212241/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Red Bean Slush",
-                "description": "Sweet red beans blended with ice for this frozen treat. Sweet and Nutty.",
+                "description": "Sweet red beans blended with ice for a deliciously nutty treat.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8272,11 +8335,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212237/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Strawberry Milk Slush",
-                "description": "A refreshing blend of Strawberry and Lactaid Milk. Sweet and Refreshing.",
+                "description": "Strawberry jam blended with milk & ice. Sweet & refreshing.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8388,11 +8452,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212242/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Taro Slush",
-                "description": "Taro and cane sugar blended with ice for a creamy, frozen experience. Sweet, Nutty, with hints of Vanilla.",
+                "description": "Taro blended with milk powder, cane sugar, & ice. Sweet & nutty.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8504,7 +8569,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212236/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mango Creamsicle",
@@ -8614,7 +8680,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/347639/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -8623,7 +8690,7 @@
         "items": [
             {
                 "name": "Matcha Milk",
-                "description": "Finely grounded Japanese Green Tea Powder - Matcha and fresh Lactaid milk. Fragrant and Creamy.",
+                "description": "Japanese matcha green tea & fresh Lactaid milk. Perfect with our rich milk cap.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8755,11 +8822,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212202/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Winter Melon Milk",
-                "description": "Fresh milk and subtly sweet Winter Melon. Creamy with hints of Caramel.",
+                "description": "Smooth winter melon paired with lactose-free milk.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -8894,11 +8962,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212590/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Sesame Matcha Milk",
-                "description": "Sweet, creamy matcha with a sprinkle of aromatic black sesame. This is for all you matcha lovers! Available Cold or Hot",
+                "description": "Bittersweet matcha, toasted sesame & creamy Lactaid milk. Sweet & smooth.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9008,11 +9077,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212204/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Chai Milk",
-                "description": "Fresh milk, Earl Grey Tea and Cane Sugar expertly come together. Bright and Sweet.",
+                "description": "Fresh lactaid milk, earl grey tea, & cane sugar come together.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9147,11 +9217,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212201/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Ginger Milk",
-                "description": "Spicy ginger swirled with brown sugar and creamy Lactaid milk. Sweet and Spicy.",
+                "description": "Spicy ginger mixed with brown sugar & creamy Lactaid milk.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9261,11 +9332,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212203/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Cocoa Cream/Orignal Wow",
-                "description": "Decadent cocoa powder mixed with brown sugar marinated bubbles blends with our creamy Lactiad milk. Sweet and Creamy.",
+                "description": "Freshly cooked WOW Bubbles with fresh milk & topped with a perfectly creamy milk cap and dash of cocoa powder.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9400,11 +9472,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212208/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Oreo Wow",
-                "description": "Your favorite childhood cookie with brown sugar marinated bubbles blends with our creamy Lactiad milk. Sweet and Creamy.",
+                "description": "America’s favorite cookie paired with freshly cooked WOW Bubbles. Milk & cookies, what’s not to love?",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9539,11 +9612,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212205/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Red Bean Wow",
-                "description": "Lightly sweetened and healthy red beans with brown sugar marinated bubbles blends with our creamy Lactiad milk. Sweet and Creamy.",
+                "description": "Freshly cooked WOW Bubbles & lactose-free milk paired with sweet red beans. Smooth & earthy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9678,11 +9752,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212206/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Herbal Jelly Wow",
-                "description": "Our herbal jelly topping matched with brown sugar marinated bubbles blends with our creamy Lactiad milk. Sweet and Creamy.",
+                "description": "Freshly cooked WOW Bubbles & lactose-free milk paired with delicious herbal jelly. Sweet & earthy.",
                 "price": "$5.25",
                 "foodOptions": [
                     {
@@ -9817,7 +9892,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212207/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Purple Yam Latte",
@@ -9953,11 +10029,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212624/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Cocoa",
-                "description": "",
+                "description": "Fresh milk with Hershey’s chocolate and vanilla.",
                 "price": "$4.95",
                 "foodOptions": [
                     {
@@ -10084,7 +10161,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/282867/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -10093,7 +10171,7 @@
         "items": [
             {
                 "name": "Yogurt Green Tea",
-                "description": "Smooth and sweet Yakult combined with our fragrant Jasmine Green Tea. Sweet and Floral with a hint of Plum.",
+                "description": "Yakult yogurt paired with jasmine green tea. Sweet & tart with a hint of plum.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -10224,11 +10302,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212248/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Yogurt Lemonade",
-                "description": "Smooth Yakult with fresh lemonade. Sour and Sweet.",
+                "description": "Yakult yogurt paired with fresh-squeezed lemon juice. Smooth & tangy.",
                 "price": "$5.45",
                 "foodOptions": [
                     {
@@ -10359,11 +10438,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212626/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Yogurt Orange Juice",
-                "description": "Smooth and sweet Yakult mixed with refreshing, fresh squeezed orange juice. Bright and Fresh.",
+                "description": "Yakult yogurt paired with fresh-squeezed orange juice. Sweet & tangy.",
                 "price": "$5.45",
                 "foodOptions": [
                     {
@@ -10494,11 +10574,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212249/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Yogurt Grapefruit Juice",
-                "description": "Smooth and sweet Yakult mixed with fresh grapefruit juice. Tangy and Smooth.",
+                "description": "Yakult yogurt paired with fresh-squeezed grapefruit juice. Smooth & tangy.",
                 "price": "$5.45",
                 "foodOptions": [
                     {
@@ -10629,11 +10710,12 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212250/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Yogurt Strawberry Lemonade",
-                "description": "",
+                "description": "Yakult yogurt paired with strawberry juice. Smooth & tangy.",
                 "price": "$4.85",
                 "foodOptions": [
                     {
@@ -10758,7 +10840,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212627/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Yogurt Peach-ade",
@@ -10881,7 +10964,937 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/214935/image?density=1&height=300&width=420&aspect_ratio=original"
+            }
+        ]
+    },
+    {
+        "categoryName": "Milk Cap",
+        "items": [
+            {
+                "name": "Winter Melon Tea Cap",
+                "description": "Winter melon topped with our creamy, subtly salty Milk Cap. Sweet & smooth.",
+                "price": "$5.90",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218359/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Honey Black Tea Cap",
+                "description": "Sweet longan honey and black tea layered with our creamy, sublty salty Milk Cap.",
+                "price": "$5.90",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218360/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Honey Green Tea Cap",
+                "description": "Sweet longan honey and green tea layered with our creamy, sublty salty Milk Cap.",
+                "price": "$5.90",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218361/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Honey Oolong Tea Cap",
+                "description": "Sweet longan honey and oolong tea layered with our creamy, sublty salty Milk Cap.",
+                "price": "$5.90",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218362/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Sunshine Pineapple Tea Cap",
+                "description": "Refreshing pineapple paired with jasmine green tea & layered with our creamy Milk Cap.",
+                "price": "$6.10",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Sugar 100%"
+                            },
+                            {
+                                "name": "Less S 70%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218363/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Matcha Milk Cap",
+                "description": "Japanese matcha green tea & fresh Lactaid milk. Perfect with our rich Milk Cap.",
+                "price": "$6.50",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Extra S 120%"
+                            },
+                            {
+                                "name": "Half S 50%"
+                            },
+                            {
+                                "name": "Little S 30%"
+                            },
+                            {
+                                "name": "No S 0%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218364/image?density=1&height=300&width=420&aspect_ratio=original"
+            },
+            {
+                "name": "Cocoa Cream Wow Milk Cap",
+                "description": "Freshly cooked WOW Bubbles mixed with fresh milk & topped with a perfectly creamy milk cap & a dash of cocoa powder",
+                "price": "$6.50",
+                "foodOptions": [
+                    {
+                        "name": "Choose a Size:",
+                        "minChoices": 1,
+                        "maxChoices": 1,
+                        "options": [
+                            {
+                                "name": "Medium"
+                            },
+                            {
+                                "name": "Large 1",
+                                "price": "$1.00"
+                            },
+                            {
+                                "name": "Hot 1",
+                                "price": "$1.00"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Choose Topping(s):",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Caramel Coffee Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Strawberry Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oolong Tea Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Crystal Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Pudding",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Herbal Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Bubble",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Chia Seeds",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Grape Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Coffee Popping Bubble",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Milk Cap",
+                                "price": "$1.25"
+                            },
+                            {
+                                "name": "Red Bean",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Oreo",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Aloe Jelly",
+                                "price": "$0.95"
+                            },
+                            {
+                                "name": "Nata Jelly",
+                                "price": "$0.65"
+                            },
+                            {
+                                "name": "Mango Jelly",
+                                "price": "$0.65"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sugar Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Sugar 100%"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Level:",
+                        "minChoices": 0,
+                        "options": [
+                            {
+                                "name": "Regular Ice"
+                            },
+                            {
+                                "name": "Less Ice"
+                            },
+                            {
+                                "name": "No Ice"
+                            },
+                            {
+                                "name": "More Ice"
+                            }
+                        ]
+                    }
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/218365/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     },
@@ -11020,7 +12033,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212321/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Latte",
@@ -11150,7 +12164,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212322/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Mocha",
@@ -11280,7 +12295,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212323/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Cappuccino",
@@ -11410,7 +12426,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212324/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Caramel Macchiato",
@@ -11540,7 +12557,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/212325/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "Coffee Wow Milk Cap",
@@ -11679,7 +12697,8 @@
                             }
                         ]
                     }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/240028/image?density=1&height=300&width=420&aspect_ratio=original"
             },
             {
                 "name": "S'mores Coffee Slush",
@@ -11796,929 +12815,8 @@
                             }
                         ]
                     }
-                ]
-            }
-        ]
-    },
-    {
-        "categoryName": "Milk Cap",
-        "items": [
-            {
-                "name": "Winter Melon Tea Cap",
-                "description": "",
-                "price": "$5.90",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Honey Black Tea Cap",
-                "description": "",
-                "price": "$5.90",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Honey Green Tea Cap",
-                "description": "",
-                "price": "$5.90",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Honey Oolong Tea Cap",
-                "description": "",
-                "price": "$5.90",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Sunshine Pineapple Tea Cap",
-                "description": "",
-                "price": "$6.10",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Sugar 100%"
-                            },
-                            {
-                                "name": "Less S 70%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Matcha Milk Cap",
-                "description": "",
-                "price": "$6.50",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Extra S 120%"
-                            },
-                            {
-                                "name": "Half S 50%"
-                            },
-                            {
-                                "name": "Little S 30%"
-                            },
-                            {
-                                "name": "No S 0%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Cocoa Cream Wow Milk Cap",
-                "description": "",
-                "price": "$6.50",
-                "foodOptions": [
-                    {
-                        "name": "Choose a Size:",
-                        "minChoices": 1,
-                        "maxChoices": 1,
-                        "options": [
-                            {
-                                "name": "Medium"
-                            },
-                            {
-                                "name": "Large 1",
-                                "price": "$1.00"
-                            },
-                            {
-                                "name": "Hot 1",
-                                "price": "$1.00"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Choose Topping(s):",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Caramel Coffee Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Strawberry Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oolong Tea Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Crystal Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Pudding",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Herbal Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Bubble",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Chia Seeds",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Grape Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Coffee Popping Bubble",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Milk Cap",
-                                "price": "$1.25"
-                            },
-                            {
-                                "name": "Red Bean",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Oreo",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Aloe Jelly",
-                                "price": "$0.95"
-                            },
-                            {
-                                "name": "Nata Jelly",
-                                "price": "$0.65"
-                            },
-                            {
-                                "name": "Mango Jelly",
-                                "price": "$0.65"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sugar Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Sugar 100%"
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Ice Level:",
-                        "minChoices": 0,
-                        "options": [
-                            {
-                                "name": "Regular Ice"
-                            },
-                            {
-                                "name": "Less Ice"
-                            },
-                            {
-                                "name": "No Ice"
-                            },
-                            {
-                                "name": "More Ice"
-                            }
-                        ]
-                    }
-                ]
+                ],
+                "image": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/282862/image?density=1&height=300&width=420&aspect_ratio=original"
             }
         ]
     }

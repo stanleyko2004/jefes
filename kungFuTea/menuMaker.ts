@@ -153,7 +153,8 @@ class MenuMaker {
                 if (img === null){
                     console.log('NO IMAGE', name)
                 } else {
-                    image = (await (await item.getProperty('src')).jsonValue()) as string
+                    image = (await item.$eval('img', el => el.getAttribute('src')))!
+                    console.log('IMAGE: ', image)
                 }
                 const foodOptions: FoodOption[] = await this.scrapeFoodOptions(item)
                 scrapedItems.push({
