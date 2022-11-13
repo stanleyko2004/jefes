@@ -86,7 +86,7 @@ export class Navigator {
       );
       const href: string = (await property.jsonValue()) as string;
       const name: string = await item.$eval(
-        'span[data-testid="menu-item-name"]',
+        'div[data-testid="menu-item-name"]',
         (nameEl: any) => nameEl.innerText
       );
       // console.log(name, href)
@@ -102,6 +102,7 @@ export class Navigator {
     }
 
     await Promise.all(tasks);
+    // console.log(this.menuItemToLink)
   }
 
   async editOrderTime(): Promise<void> {
@@ -120,7 +121,7 @@ export class Navigator {
     // item
     try {
       await this.page.goto(this.menuItemToLink.get(item)!);
-      await this.wait();
+      await this.page.waitForSelector("#modal-root");
       const element: puppeteer.ElementHandle<Element> | null =
         await this.page.$("#modal-root");
       this.modal = element!;
@@ -138,7 +139,7 @@ export class Navigator {
         const escapedQuotes: string = option.includes('"') ? 'concat("' + option.replace(/"/g, `", '"', "`) + '")' : '"' + option + '"'
         console.log(escapedQuotes)
         // cuz toast sometimes adds random whitespace
-
+        await this.modal.waitForXPath(`//div[@data-testid="modifierDescription"]/div[normalize-space(text())=${escapedQuotes}]`);
         const [optionText] = await this.modal.$x(
           `//div[@data-testid="modifierDescription"]/div[normalize-space(text())=${escapedQuotes}]`
         );
@@ -229,11 +230,11 @@ export class Navigator {
     } = args;
     console.log('IN CHECKOUT');
     await this.page.goto(this.url + "/checkout");
-    await this.wait();
     console.log('GOT TO PAGE');
 
     try {
       // can't async all this cuz puppeteer uses one cursor to fill in everything so it gets all messed up
+      await this.page.waitForSelector('#customer_first_name');
       await this.page.type("#customer_first_name", firstName);
       await this.page.type("#customer_last_name", lastName);
       await this.page.type("#customer_email", email);
@@ -247,6 +248,7 @@ export class Navigator {
 
     console.log('APPLY CREDIT CARD');
     try {
+      await this.page.waitForSelector('iframe[data-testid="credit-card-iframe"]');
       const creditCardIframeElementHandle: puppeteer.ElementHandle<Element> | null =
         await this.page.$('iframe[data-testid="credit-card-iframe"]');
       if (creditCardIframeElementHandle !== null) {
