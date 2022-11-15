@@ -158,6 +158,7 @@ export class Navigator {
         console.error("QUANTITY CANNOT BE LESS THAN 1");
         throw new Error('QUANTITY CANNOT BE LESS THAN 1');
       }
+      await this.modal.waitForSelector('button[data-testid="increment"]');
       const incrementButton: puppeteer.ElementHandle<Element> | null =
         await this.modal.$('button[data-testid="increment"]');
       if (incrementButton !== null) {
@@ -191,6 +192,10 @@ export class Navigator {
     console.log('TRY CART');
     // add to cart
     try {
+      await Promise.all([
+        this.modal.waitForSelector('button[data-testid="add-to-cart-button"]'),
+        new Promise(resolve => setTimeout(resolve, 2000))
+      ])
       const addToCartButton: puppeteer.ElementHandle<Element> | null =
         await this.modal.$('button[data-testid="add-to-cart-button"]');
       if (addToCartButton !== null) {
@@ -277,34 +282,34 @@ export class Navigator {
       throw e;
     }
 
-    console.log('TRY SUBMIT');
-    try {
-      await this.page.waitForSelector('#submit-button:not([disabled])');
+    // console.log('TRY SUBMIT');
+    // try {
+    //   await this.page.waitForSelector('#submit-button:not([disabled])');
 
-      const submitButton: puppeteer.ElementHandle<Element> | null =
-        await this.page.$("#submit-button");
-      if (submitButton === null) {
-        console.log("CAN'T FIND SUBMIT BUTTON");
-      } else {
-        console.log(1)
-        await submitButton.evaluate((button: any) => button.click());
-        console.log('CLICKED SUBMIT')
-        await this.page.waitForFunction(`window.location.href.startsWith("${this.url}/confirm")`, {timeout: 60000})
-        console.log('AT CONFIRM PAGE, URL: ', this.page.url())
-        // await this.page.waitForNavigation({waitUntil: 'networkidle0', timeout: 60000})
+    //   const submitButton: puppeteer.ElementHandle<Element> | null =
+    //     await this.page.$("#submit-button");
+    //   if (submitButton === null) {
+    //     console.log("CAN'T FIND SUBMIT BUTTON");
+    //   } else {
+    //     console.log(1)
+    //     await submitButton.evaluate((button: any) => button.click());
+    //     console.log('CLICKED SUBMIT')
+    //     await this.page.waitForFunction(`window.location.href.startsWith("${this.url}/confirm")`, {timeout: 60000})
+    //     console.log('AT CONFIRM PAGE, URL: ', this.page.url())
+    //     // await this.page.waitForNavigation({waitUntil: 'networkidle0', timeout: 60000})
 
-        console.log('command: ', `window.location.href.startsWith("${this.url}/confirm")`)
-        await this.page.screenshot({'path': 'receipt.png', 'fullPage': true})
-        console.log('SS')
-        // await Promise.all([
-        //   submitButton.evaluate((button: any) => button.click()),
-        //   this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 120000})
-        // ]);
-      }
-    } catch (e) {
-      console.log(e);
-      throw e;
-    }
+    //     console.log('command: ', `window.location.href.startsWith("${this.url}/confirm")`)
+    //     await this.page.screenshot({'path': 'receipt.png', 'fullPage': true})
+    //     console.log('SS')
+    //     // await Promise.all([
+    //     //   submitButton.evaluate((button: any) => button.click()),
+    //     //   this.page.waitForNavigation({waitUntil: 'networkidle2', timeout: 120000})
+    //     // ]);
+    //   }
+    // } catch (e) {
+    //   console.log(e);
+    //   throw e;
+    // }
 
     console.log('FINISHED CHECKOUT');
   }
